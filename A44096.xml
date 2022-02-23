@@ -1,0 +1,1738 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The principles of Christian religion in twenty questions and answers whereunto is added, a compendious history of the most memorable passages of Holy Scripture by way of questions and answers, for the use and benefot of the inhabitants of the parish of Wotton in Oxford shire. By John Hoffman B.D. minister of Gods Word.</title>
+            <author>Hoffman, John, b. 1601 or 2.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 86 KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44096</idno>
+            <idno type="STC">Wing H2348</idno>
+            <idno type="STC">ESTC R215272</idno>
+            <idno type="EEBO-CITATION">99827191</idno>
+            <idno type="PROQUEST">99827191</idno>
+            <idno type="VID">31607</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44096)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31607)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1888:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The principles of Christian religion in twenty questions and answers whereunto is added, a compendious history of the most memorable passages of Holy Scripture by way of questions and answers, for the use and benefot of the inhabitants of the parish of Wotton in Oxford shire. By John Hoffman B.D. minister of Gods Word.</title>
+                  <author>Hoffman, John, b. 1601 or 2.</author>
+               </titleStmt>
+               <extent>[8], 72 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by L. Lichfield,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Examinations, questions, etc. --  Early works to 1800.</term>
+               <term>Christianity --  Essence, genius, nature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31607:1"/>
+            <p>THE PRINCIPLES OF CHRISTIAN RELIGION In Twenty Queſtions and <hi>Anſwers:</hi> Whereunto is Added, A Compendious Hiſtory of the moſt Memorable paſſages of HOLY SCRIPTURE by way of Queſtions and Anſwers, for the uſe and benefit of the Inhabitants of the Pariſh of WOT<g ref="char:EOLhyphen"/>TON in <hi>Oxford ſhire.</hi>
+            </p>
+            <p>By JOHN HOFFMAN B. D. <hi>Minister of Gods word.</hi>
+            </p>
+            <q>
+               <bibl>1 TIM. 4.8.</bibl>
+               <p>
+                  <hi>Godlineſſe is Profitable to all things.</hi>
+               </p>
+            </q>
+            <p>OXFORD, Printed by <hi>L. Lichfield.</hi> 1653.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:31607:2"/>
+            <pb facs="tcp:31607:2"/>
+            <head>TO My Beloved Neighbours and Pari<g ref="char:EOLhyphen"/>ſhioners, the Inhabitants of the <hi>Towne and Pariſh of WOTTON In</hi> Oxford-ſhire.</head>
+            <opener>
+               <salute>Beloved in the Lord,</salute>
+            </opener>
+            <p n="1">1. <seg rend="decorInit">I</seg>T hath been my grea<g ref="char:EOLhyphen"/>teſt care, and conſtant endeavour, ever ſince by Gods providence I was called to be your Paſtour, how I might withſtand, and hinder the growth of <hi>ſinnes,
+<note place="margin">Prov. 14.34. Ioh. 17.3.</note> which are a reproach to any People:</hi> and how to build you up in <hi>the ſaving know<g ref="char:EOLhyphen"/>ledge of Ieſus Chriſt, which is eternall life.</hi> To which purpoſe in the ordi<g ref="char:EOLhyphen"/>nary
+<pb facs="tcp:31607:3"/>courſe of my Miniſtry, as you know, I have gone over the princi<g ref="char:EOLhyphen"/>ples of Religion, by way of Catechi<g ref="char:EOLhyphen"/>zing more then once, that ſo I might, with the Lords aſſiſtance and bleſ<g ref="char:EOLhyphen"/>ſing upon my labours, lay a ſure and a ſound foundation, in the tender hearts of the yonger ſort of people, who are ſo ſweetly exhorted by <hi>So<g ref="char:EOLhyphen"/>lomon,</hi>
+               <note place="margin">
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccleſ. 12.</note> to know and <hi>to remember their Creator now in the daies of their youth.</hi>
+            </p>
+            <p n="2">2. It hath of late much troubled my ſpirit, what good courſe I might take in theſe evill and unſetled times, to ſettle and eſtabliſh you in the Truth of the Goſpell,
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evel. 3.1.</note> 
+               <hi>to hold faſt that which you have received, that no man may take your Crowne:</hi> and how to Preach the Word unto you, that all may profit, and upon my ſeeking of God in private to direct mee, and after much ſelfe-diſputing, I reſol<g ref="char:EOLhyphen"/>ved at laſt, to look beyond all diſ<g ref="char:EOLhyphen"/>couragements, and frivolous excep<g ref="char:EOLhyphen"/>tions of perſons diſaffected to Truth
+<pb facs="tcp:31607:3"/>and Holineſſe, and in the integrity and ſimplicity of my heart, to ad<g ref="char:EOLhyphen"/>venture upon this plaine and eaſy way.</p>
+            <p>Firſt to Compoſe and Print a ſhort Catechiſe, containing the funda<g ref="char:EOLhyphen"/>mentalls of our Chriſtian Religion, which being known and underſtood, will enable you <hi>to give an account to every man,
+<note place="margin">1 Pet. 3.15.</note> that ſhall aske you a reaſon of the hope that is in you, with meeknes and feare.</hi> Sermons without the knowledge and underſtanding of fundamentall Truths, are as if you ſhould ſet a Browne Loafe and a Cheeſe,
+<note place="margin">Heb. 5.13.14.</note> before <hi>Infants</hi> that call for <hi>Milke.</hi>
+            </p>
+            <p>Secondly, for as much as it is a ſad thing to conſider, how many heare Gods word, it may be every Lords day, yet underſtand little and re<g ref="char:EOLhyphen"/>member leſſe, having never been ac<g ref="char:EOLhyphen"/>quainted with the Hiſtoricall part of the Scripture to any purpoſe, I have therefore very briefely contracted, and ſet downe the moſt memorable
+<pb facs="tcp:31607:4"/>Hiſtoricall paſſages thereof, the knowledge whereof, will, I am con<g ref="char:EOLhyphen"/>fident, be very helpfull unto you, to underſtand Gods mind, delivered in thoſe comfortable Doctrines, which upon the explication of any Text, are by worthy Miniſters of Chriſt commended unto you.</p>
+            <p>Thirdly, becauſe without the Lords bleſſing nothing can doe us good, I have therefore in the latter end of this little Manuall, ſet downe a ſhort direction for younger Chri<g ref="char:EOLhyphen"/>ſtians to pray by.</p>
+            <p>There are Foure holy duties, which I heartily commend unto you, and intreat you to practice.</p>
+            <p n="1">1. To read Gods word much in private, and to pray with your Fami<g ref="char:EOLhyphen"/>lies, the bleſſing of God is upon ſuch Families.</p>
+            <p n="2">2. To take heed of prophaning the Lords Day, and inſtead of unne<g ref="char:EOLhyphen"/>ceſſary worldly works, or ſinfull re<g ref="char:EOLhyphen"/>creations, to call your Children and Servants after Dinner together be<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:31607:4"/>the ſecond Sermon, to give you an account of ſome part of the Cate<g ref="char:EOLhyphen"/>chiſe, and of the Hiſtory of the Bi<g ref="char:EOLhyphen"/>ble, which will put yours and their hearts into a holy poſture for the publique exerciſes of the Church.</p>
+            <p n="3">3. I would intreat you to exa<g ref="char:EOLhyphen"/>mine all your Doctrines you heare, by the Word of God, it is a way very pleaſing to God, as we ſee in the Ex<g ref="char:EOLhyphen"/>ample of the <hi>Noble Bereans.</hi>
+            </p>
+            <p n="4">4. I would deſire you to ſearch after, and to be well ſetled in the Doctrine of juſtification, and of the Sacraments. Other duties there are, I ſhould ſpeake of, but I would wil<g ref="char:EOLhyphen"/>lingly be as ſhort as I could. Now the Lord Jeſus bleſſe you and yours, and ſo appeare upon you, and my la<g ref="char:EOLhyphen"/>bours amongſt you, that in the day of judgement we may not be aſha<g ref="char:EOLhyphen"/>med but ſtand with comfort before the Tribunall ſeat of Chriſt, and re<g ref="char:EOLhyphen"/>ceive an <hi>Fuge</hi> well done good and faithfull ſervants, enter into your
+<pb facs="tcp:31607:5"/>Maſters joy; Which ſhall be the dai<g ref="char:EOLhyphen"/>ly prayer of</p>
+            <closer>
+               <signed>Your moſt affectionate Friend and Paſtour to ſerve you in Christ. <hi>JOHN HOFFMAN.</hi>
+               </signed>
+               <dateline>
+                  <hi>From my study at</hi> Wotton <date>Feb. 16. 1653.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb n="1" facs="tcp:31607:5"/>
+            <head>
+               <hi>A Short Catechiſme.</hi> OR Twenty Queſtions and Anſwers, Containing the firſt Elements <hi>or Principles of our</hi> CHRISTIAN RELIGION.</head>
+            <div n="1" type="question">
+               <head>The 1. Queſtion. <hi>WHAT is every one by Nature?</hi>
+               </head>
+               <p>The Anſwer.</p>
+               <p>Every one by Nature is a poore miſera<g ref="char:EOLhyphen"/>ble ſinner, not able of himſelfe to doe any thing pleaſing to God. <hi>Rom.</hi> 7.24.</p>
+            </div>
+            <div n="2" type="question">
+               <head>Q. 2. <hi>How came wee to be ſo wretched?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> 1. By the guilt of the firſt ſinne com<g ref="char:EOLhyphen"/>mited by <hi>Adam</hi> and <hi>Eve</hi> in Paradiſe.</p>
+               <p n="2">2. By originall ſinne, which is not only
+<pb n="2" facs="tcp:31607:6"/>a want of Gods image, conſiſting in holi<g ref="char:EOLhyphen"/>neſſe and righteouſneſſe, but alſo a prone<g ref="char:EOLhyphen"/>neſſe and inclination to all ſinnes.</p>
+               <p n="3">3. By our daily Actuall tranſgreſſions in thought word and deed. <hi>Pſal.</hi> 51.5. <hi>Rem:</hi> 5.12.</p>
+            </div>
+            <div n="3" type="question">
+               <head>Q. 3. <hi>What is ſinne?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> Sinne is a breach of Gods Law, ma<g ref="char:EOLhyphen"/>king us guilty of Gods curſe, and heavy judgements temporally and eternally. 1 <hi>Ioh:</hi> 3.4. <hi>Gal:</hi> 3.10.</p>
+            </div>
+            <div n="4" type="question">
+               <head>Q. 4. <hi>How may wee be freed from this miſerable con<g ref="char:EOLhyphen"/>dition?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> Only by Jeſus Chriſt, the alone Me<g ref="char:EOLhyphen"/>diator 'twixt God and Man. 1 <hi>Tim:</hi> 2.5.</p>
+            </div>
+            <div n="5" type="question">
+               <head>Q. 5. <hi>What is God?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> God is a ſpirit infinite in power, ju<g ref="char:EOLhyphen"/>ſtice, and mercy, diſtinguiſhed into three Perſons, God the Father, God the Sonne, and God the Holy Ghoſt, and theſe three are one, 1 <hi>Ioh:</hi> 5.7.</p>
+            </div>
+            <div n="6" type="question">
+               <head>Q. 6. <hi>What believest thou concerning God the Fa<g ref="char:EOLhyphen"/>ther?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> I believe that he created me and all the World out of nothing, and that by his Almighty providence, he upholds, and moſt
+<pb n="3" facs="tcp:31607:6"/>wiſely diſpoſes of all things to his own glory, and the good of his Church, <hi>Heb:</hi> 11.3. <hi>Math:</hi> 10.29. <hi>Prov:</hi> 16.33.</p>
+            </div>
+            <div n="7" type="question">
+               <head>Q: 7. <hi>What believeſt thou concerning Ieſus Chriſts</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> I believe that he being God from e<g ref="char:EOLhyphen"/>verlaſting, took mans Nature upon him in the fulneſſe of time, being conceived by the Holy Ghoſt, borne of the Virgin Mary: That he fulfilled the Law of God for mee, and ſuffered much miſery, the death of the Croſſe, and Hells Torments: That he was buried, and roſe againe the third day: That he aſcended up into Heaven, to the higheſt glory, and that he ſhall ere long, come in great glory, to judge the quick and the dead. <hi>Phil:</hi> 2.7, 8, 9.</p>
+            </div>
+            <div n="8" type="question">
+               <head>Q. 8. <hi>How many Natures hath Chriſt, and how ma<g ref="char:EOLhyphen"/>ny Offices did he undertake for us?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> Chriſt hath two Natures; the hu<g ref="char:EOLhyphen"/>mane, and the Divine Nature, <hi>Ioh:</hi> 1.14. 1 <hi>Tim:</hi> 3 16.</p>
+               <p>And he undertook three Offices for us.</p>
+               <list>
+                  <item>1 To be our Prophet to teach us.</item>
+                  <item>2 Our High Prieſt to dye and to pay for us.</item>
+                  <item>3 Our Heavenly King to rule us by his word and ſpirit, <hi>Apoc.</hi> 1.5.</item>
+               </list>
+            </div>
+            <div n="9" type="question">
+               <pb n="4" facs="tcp:31607:7"/>
+               <head>Q: 9. <hi>What believeſt thou concerning the Holy Ghoſt?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> I believe that the Holy Ghoſt is God, and that he is ſent to mee, and to all Gods Children, to guide us, to teach us, to make us Holy, and to comfort us in all our afflictions. <hi>Ioh,</hi> 14.26.</p>
+            </div>
+            <div n="10" type="question">
+               <head>Q: 10. <hi>How may we get God to be our God, and Fa<g ref="char:EOLhyphen"/>ther?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> By Faith in Jeſus Chriſt alone, <hi>Ioh:</hi> 3.16.</p>
+            </div>
+            <div n="11" type="question">
+               <head>Q: 11. <hi>What is Faith?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> A precious gift of God, whereby I perſwade and aſſure my ſelfe, that God for Chriſts ſake, hath juſtified mee, and will accept of mee, imputing Chriſts righteouſ<g ref="char:EOLhyphen"/>to mee, and imputing my ſinnes to him, 2 <hi>Cor:</hi> 5.21.</p>
+            </div>
+            <div n="12" type="question">
+               <head>Q: 12. <hi>How may we get and increaſe Faith?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> 1. By the hearing of Gods word of true and faithfull Preachers, <hi>Rom:</hi> 10.17.</p>
+               <p n="2">2. By Prayer, asking of God in the name of Jeſus Chriſt, things lawfull and needfull for ſoule and body, according to the Lords prayer.</p>
+               <p n="3">3. By the Sacraments.</p>
+            </div>
+            <div n="13" type="question">
+               <pb n="5" facs="tcp:31607:7"/>
+               <head>Q: 13. <hi>What is a Sacrament?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> An outward ſigne and ſeale of the Covenant of Grace, <hi>Rom:</hi> 4.11.</p>
+               <p>What the Covenant of Grace is, ſee <hi>Heb:</hi> 
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. 16, 17.</p>
+            </div>
+            <div n="14" type="question">
+               <head>Q: 14. <hi>How many Sacraments have we Chriſtians?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> Two only: Baptiſme and the Lords Supper, 1 <hi>Cor:</hi> 10.2,3. To theſe Sacraments all thoſe have right, to whom the promiſes are made; upon this ground wee Baptize the Infants of Chriſtian Parents, and when afterwards they come to the years of diſ<g ref="char:EOLhyphen"/>cretion, and can examine themſelves, wee alſo admit them to the Lords Supper, <hi>Act.</hi> 
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.39. 1 <hi>Cor:</hi> 11.28.</p>
+            </div>
+            <div n="15" type="question">
+               <head>Q: 15. <hi>What is required of one that will receive the Communion?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> He that will receive the Communi<g ref="char:EOLhyphen"/>on, muſt not be utterly ignorant, nor ſcan<g ref="char:EOLhyphen"/>dalous in his life, but muſt carefully exa<g ref="char:EOLhyphen"/>mine and try aforehand:
+<list>
+                     <item>1. His knowledge of Chriſt.</item>
+                     <item>2. Faith.</item>
+                     <item>3. Repentance, which is a change from worſe to better, upon true ſorrow for ſinne.</item>
+                     <item>4. Love and Charity.</item>
+                     <pb n="6" facs="tcp:31607:8"/>
+                     <item> 5. His obedience and thankfulneſſe.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="16" type="question">
+               <head>Q: 16. <hi>What is it to eate the fleſh, and drink the bloud of Chriſt in the Sacrament?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> To believe and to aſſure my ſelfe, that what the Lord Jeſus hath done or ſuf<g ref="char:EOLhyphen"/>fered, he hath done it alſo for my ſoule, and that I am really, ſpiritually united un<g ref="char:EOLhyphen"/>to him, <hi>Joh:</hi> 6.54, 63.</p>
+            </div>
+            <div n="17" type="question">
+               <head>Q: 17. <hi>What is expected of us, after we have received the Lords Supper?</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>A.</hi> 1. To try what ſpirituall ſtrength and comfort we have gotten by it.</item>
+                  <item>2. To pay our vowes.</item>
+                  <item>3. To increaſe daily in Grace.</item>
+                  <item>4. To praiſe God, that we have a place in Gods Church among his people, <hi>Pſal:</hi> 116.12, 13.</item>
+               </list>
+            </div>
+            <div n="18" type="question">
+               <head>Q: 18. <hi>What doſt thou meane by the Church?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> The company of all Gods Elect, that have been, are, or ſhall be called out of the World to be Saints, <hi>Acts</hi> 2.47.</p>
+            </div>
+            <div n="19" type="question">
+               <head>Q: 19. <hi>What are the true Chriſtians conſtant exerci<g ref="char:EOLhyphen"/>ſes?</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>A.</hi> 1. To keep a good Conſcience, <hi>Act:</hi> 24.16.</item>
+                  <item>2. To be much in Prayer and Faſting.</item>
+                  <pb n="7" facs="tcp:31607:8"/>
+                  <item> 3. To read and heare Gods word.</item>
+                  <item>4. To keep the Lords day.</item>
+                  <item>5. To doe good to all, but ſpecially to Godly Chriſtians.</item>
+                  <item>6. To doe as I would be done by, accor<g ref="char:EOLhyphen"/>ding to the Morall Law, the Ten Commandements, which are the Rule of mans life.</item>
+                  <item>7. To repent daily of our daily failings and in all theſe duties to believe, that God will accept of me for Chriſts ſake alone, without whom our beſt performances are ſinfull and abomi<g ref="char:EOLhyphen"/>nable, <hi>Rom.</hi> 14.23. <hi>Heb:</hi> 11.6.</item>
+               </list>
+            </div>
+            <div n="20" type="question">
+               <head>Q: 20. <hi>What are the Chriſtians priviledges?</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>A.</hi> 1. Tis a great priviledge to be a Member of the true Church.</item>
+                  <item>2 To have Union &amp; Communion with Chriſt and his Church.</item>
+                  <item>3 To have the forgiveneſſe of my ſinnes ſealed to me in the bloud of Chriſt.</item>
+                  <item>4 To dye in the Faith of Chriſt.</item>
+                  <item>5 To be raiſed up at the laſt day to eter<g ref="char:EOLhyphen"/>nall Glory.</item>
+                  <item>6 To ſtand at Chriſts Right hand, and to judge the World and Angells.</item>
+                  <item>7 That when the wicked ſhall goe away with the Divells to Hell Fire for e<g ref="char:EOLhyphen"/>ver: I ſhall with all Gods Elect follow
+<pb n="8" facs="tcp:31607:9"/>Chriſt into Heavenly Glory, to ſee God Face to Face, ſinging Hallelujah to him that ſits upon the Throne, and to the Lamb for ever more. <hi>Math:</hi> 25.46. <hi>Ioh:</hi> 5.28.</item>
+               </list>
+            </div>
+            <closer>Glory be to the Lord. AMEN.</closer>
+         </div>
+         <div type="catechetical_summary_of_scripture">
+            <pb n="9" facs="tcp:31607:9"/>
+            <head>The Hiſtory of the Bible in Questions and Anſwers.</head>
+            <div n="Old Testament" type="part">
+               <div n="Genesis" type="book">
+                  <head>GENESIS.</head>
+                  <p>The 1. Queſtion. <hi>WHAT is contained in this first Book of Scripture?</hi>
+                  </p>
+                  <p>
+                     <hi>The Anſwere.</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> In <hi>Geneſis</hi> is contained the Hiſtory of the three firſt Patriarks;</p>
+                  <p>Of <hi>Adam</hi> before the floud;</p>
+                  <p>Of <hi>Noah</hi> in the floud;</p>
+                  <p>Of <hi>Abraham</hi> after the floud.</p>
+                  <p>And the Hiſtory alſo of the other Three great Patriarks, <hi>Iſaak, Iacob,</hi> and <hi>Ioſeph.</hi>
+                  </p>
+                  <p>Q: 2. <hi>What was done before the Floud?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> God created Heaven and Earth, <hi>A<g ref="char:EOLhyphen"/>dam</hi>
+                        <pb n="10" facs="tcp:31607:10"/>and <hi>Eve,</hi> and all things in Six daies out of nothing, and reſted the ſeaventh day.</item>
+                     <item>2 God prepared Paradiſe for our firſt Pa<g ref="char:EOLhyphen"/>rents, and put them therein, and for ſin turned them out againe.</item>
+                     <item>3 <hi>Adam</hi> in the ſtate of Innocency accor<g ref="char:EOLhyphen"/>ding to the Wiſdome beſtowed upon him gave fit names to all Creatures.</item>
+                     <item>4 <hi>Cain</hi> killed his brother <hi>Abel.</hi>
+                     </item>
+                     <item>5 <hi>Henoch</hi> walked with God, and was taken up into Heaven.</item>
+                     <item>6 The reſt of thoſe leſſer Patriarks inven<g ref="char:EOLhyphen"/>ted diverſe Arts cap: 5.</item>
+                  </list>
+                  <p>Q: 3. <hi>What was done in the daies of Noah?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> The whole World was drowned by a floud.</item>
+                     <item>2 The cauſe was man's ſinne, and want of Repentance upon warning given by <hi>Noah.</hi>
+                     </item>
+                     <item>3 <hi>Noah</hi> and his Family, with ſome Beaſts of all kinds were preſerved in the Ark.</item>
+                     <item>4 The Raine-bow was given for a Token that God would never deſtroy the World by Water any more.</item>
+                     <item>5 The building of the Tower of <hi>Babel</hi> i<gap reason="illegible: in gutter" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> undertaken by ſome, and puniſhed.</item>
+                  </list>
+                  <p>Q. 4. <hi>What canſt thou ſay of Abraham?</hi>
+                  </p>
+                  <list>
+                     <pb n="11" facs="tcp:31607:10"/>
+                     <item> 1 <hi>A. Abraham</hi> was called by God out of his owne Country, to ſojourne in the Land of Canaan, which God afterwards gave to him and to his poſterity for an Inheritance.</item>
+                     <item>2 He entertained Angells unawares, and prayd for Sodom and Gomorah, and hath a Sonne by <hi>Sarah.</hi>
+                     </item>
+                     <item>3 He met with many afflictions in his Tra<g ref="char:EOLhyphen"/>vells to and fro with his Wife, <hi>Sarai,</hi> his maid <hi>Hagar,</hi> and his kinſman <hi>Lot.</hi>
+                     </item>
+                     <item>4 He fought a great Battell with the aſſi<g ref="char:EOLhyphen"/>ſtance of his own Servants againſt the heathen Kings, wherein he obtained the victory, and recovered his kinſman <hi>Lot,</hi> that had been taken captive, and at his returne <hi>Melchiſedeck</hi> bleſſeth him, to whom <hi>Abraham</hi> paid Tithes of the ſpoyles taken in that war.</item>
+                     <item>5 <hi>Abraham</hi> built many Altars to God, is carefull to teach his Family the know<g ref="char:EOLhyphen"/>ledge of God, and is willing to ſacrifice his ſonne <hi>Iſaak.</hi>
+                     </item>
+                     <item>6 He had many troubles about <hi>Iſmaell Ha<g ref="char:EOLhyphen"/>gars</hi> ſonne.</item>
+                     <item>7 He purchaſed a piece of land to be a bu<g ref="char:EOLhyphen"/>rying place for his family, and there <hi>Sa<g ref="char:EOLhyphen"/>rah</hi> was buried.</item>
+                     <item>8 He took great care to have his ſonne <hi>Iſa<g ref="char:EOLhyphen"/>ak</hi> married in a Godly way.</item>
+                     <pb n="12" facs="tcp:31607:11"/>
+                     <item> 9 After the death of <hi>Sarah,</hi> he Married a<g ref="char:EOLhyphen"/>gaine, and had divers children.</item>
+                     <item>10 He dyed and was honourably buried.</item>
+                  </list>
+                  <p>Q. 5. <hi>What canſt thou ſay of Iſaak?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A. Iſaak</hi> feared God, as <hi>Abraham</hi> his fa<g ref="char:EOLhyphen"/>ther had done.</item>
+                     <item>2 He loved <hi>Rebecca</hi> his Wife.</item>
+                     <item>3 He was a great man among the Phili<g ref="char:EOLhyphen"/>ſtims, rich in Cattell and Goods, and had much contention with the Philiſtims about digging of Wells.</item>
+                     <item>4 In his old Age he bleſſed <hi>Iacob</hi> and <hi>Eſau:</hi> he dyed and was buried by his Sonnes.</item>
+                  </list>
+                  <p>Q. 6. <hi>What canst thou ſay of Iacob?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> He fled into a ſtrange land for feare of his brother <hi>Eſan.</hi>
+                     </item>
+                     <item>2 In his Travells being once benighted, and lodging all night in the field, he had a ſweet dreame, wherein he ſaw a ladder that reached from Earth to Hea<g ref="char:EOLhyphen"/>ven, the Angells of God, deſcending and aſcending.</item>
+                     <item>3 He vowed a vow, and is entertained by his Unkle <hi>Laban,</hi> to have the care and overſight of his Cattell.</item>
+                     <item>4 He had many troubles with his Unckle whoſe two Daughters <hi>Leah</hi> and <hi>Rachell</hi> he married.</item>
+                     <pb n="13" facs="tcp:31607:11"/>
+                     <item> 5 He had twelve Sonnes and one Daugh<g ref="char:EOLhyphen"/>ter, and grew rich by Gods bleſſing up<g ref="char:EOLhyphen"/>on him.</item>
+                     <item>6 He returned to his Fathers houſe with all he had gotten at his Unckles, and by the way in his returne, he met with ſhrode troubles.
+<list>
+                           <item>1 His Unckle purſued after him, and charged him with theft.</item>
+                           <item>2 His brother <hi>Eſau</hi> came with an Ar<g ref="char:EOLhyphen"/>my againſt him.</item>
+                           <item>3 His Wife <hi>Rachel</hi> died in Childbed.</item>
+                           <item>4 His Daughter <hi>Dinah</hi> is raviſhed.</item>
+                           <item>5 His Sonnes <hi>Simeon</hi> and <hi>Levi</hi> com<g ref="char:EOLhyphen"/>mitted Murther.</item>
+                           <item>6 His eldeſt Sonne committed Inceſt, and his ſonne <hi>Iudas</hi> whoredome.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>After he came home and was ſetled his troubles about <hi>Ioſeph</hi> began.</p>
+                  <p>In his Old Age he removed with all his Family into Egypt, and died there, and his body was brought back into the land of Canaan end buried.</p>
+                  <p>Q: 7. <hi>What canſt thou ſay of Ioſeph?</hi>
+                  </p>
+                  <p>
+                     <hi>Ioſeph</hi> is a worthy patterne of Piety and Holineſſe, he feared God, and took great care for his old Father <hi>Iacob,</hi> and for all his family.</p>
+                  <p>He was ſold into Egypt by his own bre<g ref="char:EOLhyphen"/>thren
+<pb n="14" facs="tcp:31607:12"/>and was there wrongfully impri<g ref="char:EOLhyphen"/>ſoned, but by Gods wonderfull provi<g ref="char:EOLhyphen"/>dence, he is advanced to great honour, and became the Father and preſerver of the Land in time of Famine.</p>
+                  <list>
+                     <item>3 He was married in Egypt, and had two Sonnes: he dyed and is embalmed.</item>
+                  </list>
+               </div>
+               <div n="Exodus" type="book">
+                  <head>EXODUS.</head>
+                  <p>Q. 1. <hi>WHY is this Book called Exodus?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Becauſe it containeth the Hiſtory of Iſraels going out of the Land of Egypt by the mighty hand of God.</p>
+                  <p>Q. 2. <hi>What became of Iacobs poſterity after the death of Ioſeph?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> They were miſerably oppreſſed by the Egyptians.</item>
+                     <item>2 By command from the King, all the male children were drowned as ſoon as they were borne, the Midwives ſhewed much pitty towards them.</item>
+                     <item>3 <hi>Moſes</hi> an Infant is miraculouſly preſer<g ref="char:EOLhyphen"/>ved, and bred up by King <hi>Pharao's</hi> own Daughter.</item>
+                     <item>4 <hi>Moſes</hi> and <hi>Aaron</hi> are called, and ſent to
+<pb n="15" facs="tcp:31607:12"/>the King to let Iſrael depart quietly out of the Land.</item>
+                     <item>5 <hi>Pharao</hi> hardned his heart, and refuſed to let them goe, for which he is puniſhed with Nine plagues, which are theſe:
+<list>
+                           <item>1 All the waters of the Land were turned into bloud, God gave them bloud to drink for their cruelty to<g ref="char:EOLhyphen"/>wards the Iſraelitiſh Infants.</item>
+                           <item>2 God puniſhed the land by Froggs.</item>
+                           <item>3 By Lice.</item>
+                           <item>4 By noyſome Flyes.</item>
+                           <item>5 Murraine on Beaſts, and Boyles on Men.</item>
+                           <item>6 By terrible haile thunder and light<g ref="char:EOLhyphen"/>ning.</item>
+                           <item>7 By Locuſts.</item>
+                           <item>8 By dreadfull darkneſſe.</item>
+                           <item>9 By killing the firſt Borne.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>Q: 3. <hi>What became of Iſraell?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> None of thoſe Plagues touched them</item>
+                     <item>2 They goe out of Egypt in haſt.</item>
+                     <item>3 The Paſſeover is inſtituted.</item>
+                     <item>4 They come to the Red Sea.</item>
+                  </list>
+                  <p>
+                     <hi>Q.</hi> 4. <hi>What did God doe for them there and after<g ref="char:EOLhyphen"/>words?</hi>
+                  </p>
+                  <list>
+                     <item>1 He divided the Sea for them, and they went on foot through it, and the Egyp<g ref="char:EOLhyphen"/>tians
+<pb n="16" facs="tcp:31607:13"/>following, the waters returned and drowned them all.</item>
+                     <item>2 He led them by <hi>Moſes</hi> into the Wilder<g ref="char:EOLhyphen"/>neſſe, and gave them the Law on Mount Sinai: and there they having grievouſly finned by committing Idolatry, at <hi>Moſes</hi> his prayer for them are pardoned.</item>
+                     <item>3 He commanded them to ſet up the Ta<g ref="char:EOLhyphen"/>bernacle, and gave them Lawes about Sacrifices.</item>
+                  </list>
+                  <p>
+                     <hi>Q.</hi> 5. <hi>How were they maintained in the Wilderneſſe?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> God gave them Manna from heaven, and water out of a Rock.</item>
+                     <item>2 Their ſhooes add Garments did not weare out for Forty years.</item>
+                  </list>
+                  <p>
+                     <hi>Q.</hi> 6. <hi>How did Moſes governe ſuch a multitude in the Wilderneſſe?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> He appointed Magiſtrates and Offi<g ref="char:EOLhyphen"/>cers under him by the counſell of his Father in Law.</item>
+                     <item>2 God uſually appeared to <hi>Moſes</hi> to direct him.</item>
+                     <item>3 He had the Oracle of <hi>
+                           <g ref="char:V">Ʋ</g>rim</hi> and <hi>Thumim,</hi> to ask counſell of God by.</item>
+                     <item>4 The Lord went along with his people, and led them by a cloud by day, and by a Pillar of Fire by night.</item>
+                  </list>
+               </div>
+               <div n="Leviticus" type="book">
+                  <pb n="17" facs="tcp:31607:13"/>
+                  <head>LEVITICUS.</head>
+                  <p>The Queſtion. <hi>WHy is this booke called Leviticus?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Becauſe it containeth the Lawes and dutyes of the Levites or Mini<g ref="char:EOLhyphen"/>ſters of God under the Law before the comming of Chriſt in the fleſh. — Read of<g ref="char:EOLhyphen"/>ten the 26. chapter of this booke.</p>
+               </div>
+               <div n="Numbers" type="book">
+                  <head>NUMBERS.</head>
+                  <p>Q: 1. <hi>WHy is this booke called Numbers?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A.</hi> 1. Becauſe all the Males from 20. yeares and upward among the Iſraelites were numbred in the wilder<g ref="char:EOLhyphen"/>neſſe by <hi>Moſes</hi> at Gods command.</item>
+                     <item>2. Becauſe Iſraels murmurings and puniſh<g ref="char:EOLhyphen"/>ments in the wilderneſſe are here ſet downe in order.</item>
+                     <item>3. Becauſe their ſeverall ſtations and remo<g ref="char:EOLhyphen"/>valls in the wilderneſſe are here num<g ref="char:EOLhyphen"/>bred.</item>
+                  </list>
+                  <pb n="18" facs="tcp:31607:14"/>
+                  <p> Q: 2. <hi>Which were the great Rebellions of Iſrael in the wildernes?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Their Rebellions againſt God, againſt <hi>Moſes,</hi> and <hi>Aron</hi> were many; but three of them are moſt remarka<g ref="char:EOLhyphen"/>ble.</p>
+                  <list>
+                     <item>1. That of <hi>Miriam,</hi> for which ſhe is puni<g ref="char:EOLhyphen"/>ſhed with leproſy.</item>
+                     <item>2. That of all the people, upon the returne of the ſpies out of the land of Canaan.</item>
+                     <item>3. That of <hi>Corah, Dathan</hi> and <hi>Abiram,</hi> whom the earth ſwallowed up, and all their company.</item>
+                  </list>
+                  <p>
+                     <hi>Q:</hi> 3. <hi>What became of Aaron the firſt high Prieſt un<g ref="char:EOLhyphen"/>der the Law?</hi>
+                  </p>
+                  <p>
+                     <hi>A:</hi> He dyed and was buried in the wil<g ref="char:EOLhyphen"/>derneſſe, and his Sonne <hi>Eleazar</hi> ſucceeded him.</p>
+                  <p>
+                     <hi>Q:</hi> 4. <hi>What warrs had Iſrael in the wilderneſſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A:</hi> They had warres with the Amale<g ref="char:EOLhyphen"/>kits, and with the Midianites, where we have the hiſtory of <hi>Balaam,</hi> and of the zeale of <hi>Phineas,</hi> and of a great plague among the Iſraelits, for committing whoredome.</p>
+                  <p>
+                     <hi>Q:</hi> 5. <hi>What other memorable things have you in this booke?</hi>
+                  </p>
+                  <list>
+                     <pb n="19" facs="tcp:31607:14"/>
+                     <item> 
+                        <hi>A:</hi> 1. The 72 Elders propheſyed.</item>
+                     <item>2. The brazen Serpent is ſet up.</item>
+                     <item>3. The Levits are numbered, and divers caſes in law determined, as that of <hi>Ze<g ref="char:EOLhyphen"/>lophehads</hi> daughters.</item>
+                     <item>4. <hi>Moſes</hi> is forewarned of his death, and his ſucceſſor is named, to wit <hi>Ioſhua.</hi>
+                     </item>
+                     <item>5. The two Tribes and a halfe obtaine the land on this ſide Jordan for an inheri<g ref="char:EOLhyphen"/>tance, but with this condition, to aſſiſt the other. Tribes till they alſo could be ſetled in their inheritances.</item>
+                  </list>
+               </div>
+               <div n="Deuteronomy" type="book">
+                  <head>DEUTERONOMY.</head>
+                  <p>
+                     <hi>WHat canſt thou ſay of this booke?</hi>
+                  </p>
+                  <list>
+                     <item>1. This booke is called Deuteronomy that is to ſay a ſecond law, becauſe it contains a repetition
+<list>
+                           <item>1. Of lawes formerly gi<g ref="char:EOLhyphen"/>ven.</item>
+                           <item>2. Of mercyes formerly re<g ref="char:EOLhyphen"/>ceived.</item>
+                        </list>
+                     </item>
+                     <item>2. This booke is full of ſweet admonitions and exhortations to Iſrael, to be ſincere and conſtant in Gods worſhip and ſer<g ref="char:EOLhyphen"/>vice.</item>
+                     <pb n="20" facs="tcp:31607:15"/>
+                     <item> 3. This booke containeth <hi>Moſes</hi> his ſwan<g ref="char:EOLhyphen"/>like ſong, his bleſſing and prophecy, his death and buriall, and <hi>Ioſbua</hi>'s ſucceſſi<g ref="char:EOLhyphen"/>on.</item>
+                  </list>
+               </div>
+               <div n="Joshua" type="book">
+                  <head>JOSHUAH.</head>
+                  <p>The Queſtion. <hi>WHat readeſt thou in this booke?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1. The hiſtory of the warres of Ca<g ref="char:EOLhyphen"/>naan.</item>
+                     <item>2. The hiſtory of Iſraels going over Jor<g ref="char:EOLhyphen"/>dan as on dry land, the waters giving way to them in a wonderfull manner.</item>
+                     <item>3. The Circumciſion in Gilgall.</item>
+                     <item>4. Chriſt appeared to <hi>Joſhuah</hi> as an armed man.</item>
+                     <item>5. The ſtorming and taking of the Citty Jericho, and the ſaving of <hi>Rahab</hi> the harlot.</item>
+                     <item>6. The trouble about the Citty <hi>Ai,</hi> and <hi>Achan,</hi> who was the cauſe of it.</item>
+                     <item>7. At <hi>Joſhuas</hi> prayer the ſunne ſtood ſtill a whole day, that Iſraell might have time to deſtroy the Kings of the Amo<g ref="char:EOLhyphen"/>rites in number 31. God throwing downe haileſtons out of Heaven to de<g ref="char:EOLhyphen"/>ſtroy them.</item>
+                     <pb n="21" facs="tcp:31607:15"/>
+                     <item> 8. The land of Canaan is divided by <hi>Jo<g ref="char:EOLhyphen"/>ſhuah</hi> among Gods people.</item>
+                     <item>9. The two Tribes and halfe returne to their inheritance, and the miſtake about an Altar.</item>
+                     <item>10. <hi>Joſhuahs</hi> farewell Oration or charge unto Iſraell to ſerve God according to his word and to beware of Idolatry.</item>
+                     <item>11. <hi>Ioſhuas</hi> death and buriall.</item>
+                  </list>
+               </div>
+               <div n="Judges" type="book">
+                  <head>JUDGES.</head>
+                  <p>Q: 1. <hi>WHy is this booke ſo called?</hi>
+                  </p>
+                  <p>
+                     <hi>A:</hi> Becauſe it containeth the va<g ref="char:EOLhyphen"/>liant Acts of the Judges of Iſrael, whom God raiſed up after the death of <hi>Ioſhuah</hi> to fight the Lords battells againſt the enemies of the Church.</p>
+                  <p>Q: 2. <hi>What are the names of thoſe Iudges?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1 <hi>Othniel,</hi>
+                     </item>
+                     <item>2 <hi>Ehud,</hi>
+                     </item>
+                     <item>3 <hi>Shamgar,</hi>
+                     </item>
+                     <item>4 <hi>Doborah &amp; Barack,</hi>
+                     </item>
+                     <item>5 <hi>Gideon,</hi>
+                     </item>
+                     <item>6 <hi>Abimilech,</hi>
+                     </item>
+                     <item>7 <hi>Tola,</hi>
+                     </item>
+                     <pb n="22" facs="tcp:31607:16"/>
+                     <item> 8 <hi>Iair,</hi>
+                     </item>
+                     <item>9 <hi>Iephtha,</hi>
+                     </item>
+                     <item>10 <hi>Ibſan,</hi>
+                     </item>
+                     <item>11 <hi>Elon,</hi>
+                     </item>
+                     <item>12 <hi>Abdon,</hi>
+                     </item>
+                     <item>13 <hi>Sampſon,</hi>
+                     </item>
+                     <item>14 <hi>Eli,</hi>
+                     </item>
+                     <item>15 <hi>Samuel.</hi>
+                     </item>
+                  </list>
+                  <p>Q: 3. <hi>Which are the chiefe histories of this booke?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1 The hiſtory of <hi>Abdonibezek.</hi>
+                     </item>
+                     <item>2 Iſraels ſad Apoſtaſy from God to Idols.</item>
+                     <item>3 The memorable battle fought by <hi>Debo<g ref="char:EOLhyphen"/>rah</hi> and <hi>Barak,</hi> againſt <hi>Siſera</hi> a heathen Generall, who was ſlaine by <hi>Iael</hi> inher tent.</item>
+                     <item>4 The great deliverance given to Iſrael by <hi>Gideen.</hi>
+                     </item>
+                     <item>5 The wickedneſſe of <hi>Abimelech</hi> a Baſtard.</item>
+                     <item>6 The hiſtory of <hi>Ieththa</hi> and his vow.</item>
+                     <item>7 Of <hi>Sampſons</hi> valour, of his ſinne, and of his death.</item>
+                     <item>8 The ſad hiſtory of the Benjamites about the Levites buſineſſe.</item>
+                  </list>
+               </div>
+               <div n="Ruth" type="book">
+                  <head>RUTH.</head>
+                  <p>
+                     <hi>WHAT is the ſumme and ſubſtance of this Booke?</hi>
+                  </p>
+                  <list>
+                     <pb n="23" facs="tcp:31607:16"/>
+                     <item> 1 <hi>A.</hi> How <hi>Elimelech</hi> and his Wife <hi>Naomi</hi> with their two ſonnes <hi>Malon</hi> and <hi>Chilion,</hi> in a time of Famine, left their own Country Canaan, and ſojourned in the land of Moab.</item>
+                     <item>2 Their two ſonnes Married two Moabi<g ref="char:EOLhyphen"/>tiſh women <hi>Orpha</hi> and <hi>Ruth.</hi>
+                     </item>
+                     <item>3 <hi>Elimelech</hi> and his two ſonnes dye in that Country.</item>
+                     <item>4 <hi>Naomi</hi> returnes to her own Country, and <hi>Ruth</hi> will needs goe with her, and did.</item>
+                     <item>5 They come to Bethlehem, and <hi>Naomi</hi> ſo ordereth all things, that <hi>Ruth</hi> is married to <hi>Boaz,</hi> according to <hi>Moſes</hi> Laws.</item>
+                     <item>6 <hi>Boaz</hi> hath a ſonne by <hi>Ruth</hi> named <hi>Obed,</hi> who was Grandfather to King <hi>David.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div n="1 Samuel" type="book">
+                  <head>The Firſt Book of SAMUEL.</head>
+                  <p>The 1. Queſtion. <hi>VVHY are theſe Books called the Books of Samuel?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Not becauſe <hi>Samuel</hi> wrote them, but becauſe it containeth the Hiſtory of <hi>Samu<g ref="char:EOLhyphen"/>els</hi> Life and Death, who being an eminent Prophet, and the laſt judge of Iſrael, had done great ſervice to Gods Church, he by Gods appointment, elected and Annointed the two firſt Kings of Iſrael. Theſe Books
+<pb n="24" facs="tcp:31607:17"/>were written by ſome holy man, who lived in thoſe times.</p>
+                  <p>Q. 2. <hi>What doſt thou Read of Samuel?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> I read of his Birth and Education, and of the care his good Mother <hi>Hannah</hi> took for him.</item>
+                     <item>2 Of his coming to the High-Prieſt <hi>Eli</hi> to ſerve under him.</item>
+                     <item>3 Of a ſad Meſſage <hi>Samuel</hi> brings to <hi>Eli</hi> from God, for winking at his ſonnes wickedneſſes.</item>
+                     <item>4 Of <hi>Samuels</hi> wiſdome and care to judge Iſrael in his daies.</item>
+                     <item>5 Of his power with God in Prayer.</item>
+                     <item>6 Of his uncorrupt life, death, and buriall.</item>
+                  </list>
+                  <p>Q: 3. <hi>What canſt thou ſay of</hi> Eli <hi>the High Prieſt?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> How God puniſhed him and his ſonnes in one day.</item>
+                     <item>2 How in his daies the Arke of God was taken by the Philiſtins.</item>
+                     <item>3 The Philiſtins and others are terribly plagued for their curioſity in looking into the Ark.</item>
+                     <item>4 God cauſes the very Enemies of the Church to reſtore the Arke with an Of<g ref="char:EOLhyphen"/>fering.</item>
+                  </list>
+                  <p>Q: 4. <hi>What canſt thou ſay of Saul?</hi>
+                  </p>
+                  <list>
+                     <pb n="25" facs="tcp:31607:17"/>
+                     <item> 1 <hi>A. He</hi> was the firſt King over all Iſraell.</item>
+                     <item>2 <hi>He</hi> fought againſt the Ammonites, and the Amalekites, and had good ſucceſſe, but becauſe he did not obey Gods com<g ref="char:EOLhyphen"/>mand fully, he was rejected.</item>
+                     <item>3 Iſrael in <hi>Sauls</hi> daies was much oppreſſed by the Philiſtins, againſt whom God gave <hi>Jonathan</hi> a great victory.</item>
+                     <item>4 <hi>He</hi> takes <hi>David</hi> into his Court, and give<g ref="char:EOLhyphen"/>eth him his Daughter <hi>Michall</hi> to Wife, for killing <hi>Goliah.</hi>
+                     </item>
+                     <item>5 <hi>Saul</hi> wearieth himſelfe in perſecuting <hi>David.</hi>
+                     </item>
+                     <item>6 <hi>Saul</hi> being forſaken of God, ſeeketh to a Wirch, and preſently upon that he and his ſonnes are ſlaine in Battell by the Philiſtins upon Mount Gilboa.</item>
+                  </list>
+               </div>
+               <div n="2 Samuel" type="book">
+                  <head>The Second Book of SAMUEL.</head>
+                  <p>
+                     <hi>Q.</hi> 1. <hi>WHat is chiefely ſet downe in this Book.</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> That <hi>David</hi> was the Second King o<g ref="char:EOLhyphen"/>ver Iſrael.</item>
+                     <item>2 His valiant Acts and houſehold troubles.</item>
+                     <item>3 He endured much affliction, which made him compoſe many ſweet Pſalmes.</item>
+                     <item>4 He lived among the Philiſtins in Ziglaik,
+<pb n="26" facs="tcp:31607:18"/>till the death of <hi>Saul.</hi>
+                     </item>
+                     <item>5 He is not pleaſed with the meſſengers o<gap reason="illegible: in gutter" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Sauls</hi> death, and the ſad death of <hi>Iſbbo<gap reason="illegible: in gutter" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ſhet,</hi> but makes a lamentation for <hi>Sa<gap reason="illegible: in gutter" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </hi> and <hi>Ionathan.</hi>
+                     </item>
+                     <item>6 He is firſt made King in <hi>Hebron</hi> over <hi>Iu<g ref="char:EOLhyphen"/>dah,</hi> and afterwards over all Iſraell, and carried himſelfe wiſely in the buſieſſe of <hi>Abner</hi> and <hi>Ioah.</hi>
+                     </item>
+                  </list>
+                  <p>Q. 2. <hi>What canſt thou farther ſay of David?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> How he took Jeruſalem from the J<gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>buſites, and brought the Arke of God thether, intending to build a Temple for Gods worſhip.</item>
+                     <item>2 He ſinned grievoſly againſt <hi>
+                           <g ref="char:V">Ʋ</g>ria,</hi> for which he ſuffered much afterward of his own children, <hi>Amon, Thamar, Abſolom.</hi>
+                     </item>
+                     <item>3 <hi>He</hi> had many troubles beſides with <hi>She<gap reason="illegible: in gutter" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>ba, Shimei,</hi> and <hi>Ioab.</hi>
+                     </item>
+                     <item>4 His kindneſſe to the Gibeonites in a f<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r<gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> famine, as alſo to <hi>Mephiboſhet,</hi> and <hi>Han<gap reason="illegible: in gutter" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </hi> King of <hi>Ammon.</hi>
+                     </item>
+                     <item>5 He is victorious every where, all his ene<g ref="char:EOLhyphen"/>mies are ſubdued round about.</item>
+                     <item>6 He numbred the People, and all Iſrael is plagued for it.</item>
+                  </list>
+               </div>
+               <div n="1-2 Kings" type="books">
+                  <pb n="27" facs="tcp:31607:18"/>
+                  <head>The Firſt and Second Bookes of KINGS.</head>
+                  <p>The 1. Queſtion. <hi>HOW many Kings raigned over all Iſraell?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Only three, <hi>Saul, David, Solomon.</hi>
+                  </p>
+                  <p>Q. 2. <hi>What is ſaid in this Book of David?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> He commands his ſonne <hi>Solomon</hi> to be made King, and not <hi>Adoniah.</hi>
+                     </item>
+                     <item>2 He groweth weake in his old age, give<g ref="char:EOLhyphen"/>eth his ſonne <hi>Solomon</hi> moſt heavenly ad<g ref="char:EOLhyphen"/>monitions and directions, dyeth and is royally buried.</item>
+                  </list>
+                  <p>Q: 3. <hi>What is mentioned of Solomon?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> His behaviour towards <hi>Adoniah, Ioab, Abiathar,</hi> and <hi>Shimei.</hi>
+                     </item>
+                     <item>2 His marriage with the Princeſſe of E<g ref="char:EOLhyphen"/>gypt.</item>
+                     <item>3 His Prayer for Wiſdome, and the ſignes of his Wiſdome.</item>
+                  </list>
+                  <p>
+                     <hi>Q:</hi> 4. <hi>Wherein did Solomons Wiſdome eminently ap<g ref="char:EOLhyphen"/>peare?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> In the judgement he gave 'twixt the dead and the living Child.</item>
+                     <item>2 In his Songs, and Proverbs, and Natu<g ref="char:EOLhyphen"/>rall
+<pb n="28" facs="tcp:31607:19"/>Philoſophy, knowing the nature of moſt Creatures.</item>
+                     <item>3 In the government of his Court and Kingdome.</item>
+                     <item>4 In the building of Gods Temple in Je<g ref="char:EOLhyphen"/>ruſalem.</item>
+                     <item>5 By his prayer at the Dedication of the the Temple.</item>
+                     <item>6 By his entertainment of the Queene of Sheba.</item>
+                  </list>
+                  <p>
+                     <hi>Q:</hi> 5. <hi>What evill doſt thou read of Solomon?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> He had ſeaven hundred Wives, and three hundred Concubines.</item>
+                     <item>2 He committed Idolatry, by the intice<g ref="char:EOLhyphen"/>ment of his Idolatrous outlandiſh Wives.</item>
+                     <item>3 I read of Gods anger againſt <hi>Solomon,</hi> te<g ref="char:EOLhyphen"/>ſtified by raiſing up Adverſaries againſt him, namely;
+<list>
+                           <item>1 <hi>Jeroboam</hi> his own ſervant.</item>
+                           <item>2 <hi>Hadad</hi> the King of <hi>Edom.</hi>
+                           </item>
+                           <item>3 <hi>Rezon</hi> the King of <hi>Syria.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>
+                     <hi>Q:</hi> 6. <hi>What was done after Solomons death?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> After that <hi>Solomon</hi> died and was bu<g ref="char:EOLhyphen"/>ried the Kingdome was divided. Ten Tribes adhered to <hi>Jeroboam,</hi> and two on<g ref="char:EOLhyphen"/>ly to <hi>Solomons</hi> Sonne.</p>
+                  <p>
+                     <hi>Q.</hi> 7. <hi>How many Kings raigned only over the two
+<pb n="29" facs="tcp:31607:19"/>Tribes, that were Kings of Judah?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The Kings of Judah were twenty whoſe names are theſe;
+<list>
+                        <item>1 <hi>Rehoboam.</hi>
+                        </item>
+                        <item>2 <hi>Abiam.</hi>
+                        </item>
+                        <item>3 <hi>Aſa.</hi>
+                        </item>
+                        <item>4 <hi>Jehoſophat.</hi>
+                        </item>
+                        <item>5 <hi>Jehoram.</hi>
+                        </item>
+                        <item>6 <hi>Ahaziah.</hi>
+                        </item>
+                        <item>7 Queen <hi>Athaliah</hi>
+                        </item>
+                        <item>8 <hi>Joaſh</hi>
+                        </item>
+                        <item>9 <hi>Amazia</hi>
+                        </item>
+                        <item>10 <hi>Azariah</hi> called alſo <hi>
+                              <g ref="char:V">Ʋ</g>zziah.</hi>
+                        </item>
+                        <item>11 <hi>Jotham.</hi>
+                        </item>
+                        <item>12 <hi>Ahaz</hi>
+                        </item>
+                        <item>13 <hi>Hezekiah</hi>
+                        </item>
+                        <item>14 <hi>Manaſſeh</hi>
+                        </item>
+                        <item>15 <hi>Amon</hi>
+                        </item>
+                        <item>16 <hi>Joſiah</hi>
+                        </item>
+                        <item>17 <hi>Jehoaaz</hi>
+                        </item>
+                        <item>18 <hi>Jehoiachim</hi>
+                        </item>
+                        <item>19 <hi>Jehoiakin</hi>
+                        </item>
+                        <item>20 <hi>Zedekiah.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>
+                     <hi>Q:</hi> 8. <hi>How many Kings Raigned over the Ten Tribes of Iſrael?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The Kings over Iſraell were Nine<g ref="char:EOLhyphen"/>teene, and none of them good: their names are theſe;
+<list>
+                        <pb n="30" facs="tcp:31607:20"/>
+                        <item> 1 <hi>Joroboam</hi>
+                        </item>
+                        <item>2 <hi>Nadab</hi>
+                        </item>
+                        <item>3 <hi>Baaſha</hi>
+                        </item>
+                        <item>4 <hi>Elah</hi>
+                        </item>
+                        <item>5 <hi>Zimri</hi>
+                        </item>
+                        <item>6 <hi>Omri</hi>
+                        </item>
+                        <item>7 <hi>Ahab</hi>
+                        </item>
+                        <item>8 <hi>Abaziah</hi>
+                        </item>
+                        <item>9 <hi>Jehoram</hi>
+                        </item>
+                        <item>10 <hi>Jehu</hi>
+                        </item>
+                        <item>11 <hi>Jehoahaz</hi>
+                        </item>
+                        <item>12 <hi>Jehoaſh</hi>
+                        </item>
+                        <item>13 <hi>Jeroboam</hi>
+                        </item>
+                        <item>14 <hi>Zachariah</hi>
+                        </item>
+                        <item>15 <hi>Shallum</hi>
+                        </item>
+                        <item>16 <hi>Menahem</hi>
+                        </item>
+                        <item>17 <hi>Pekaiah</hi>
+                        </item>
+                        <item>18 <hi>Pekah</hi>
+                        </item>
+                        <item>19 <hi>Hoſhea.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>
+                     <hi>Q.</hi> 9. <hi>What is ſaid of the firſt King of Juda Reho<g ref="char:EOLhyphen"/>bean?</hi>
+                  </p>
+                  <list>
+                     <item>1. <hi>A.</hi> He neglected the good Counſell of old men, and ſo loſt the greateſt part of his Kingdome.</item>
+                     <item>2 For his ſinnes and the ſinnes of the land, the King of Egypt came with an Army, and robbed the Temple, which <hi>Solomon</hi> had built and beautified.</item>
+                     <pb n="31" facs="tcp:31607:20"/>
+                     <item> 3 He dyed and was little lamented.</item>
+                  </list>
+                  <p>
+                     <hi>Q.</hi> 10. <hi>What is ſaid of</hi> Abiam <hi>the ſecond King of Ju<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>s?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> He was very wicked, he Raigned but three years and died.</p>
+                  <p>
+                     <hi>Q.</hi> 11. <hi>What canſt thou ſay of</hi> Aſa?</p>
+                  <list>
+                     <item>1 <hi>A.</hi> He was a Godly King and reformed Religion.</item>
+                     <item>2 He proſpered in his Warres againſt <hi>Ba<g ref="char:EOLhyphen"/>aſha,</hi> and againſt the Ethiopians.</item>
+                     <item>3 He and his Subjects entred into a ſtrict Covenant to ſerve God according to his word.</item>
+                     <item>4 Two ſinnes are laid to his charge:
+<list>
+                           <item>1 His unkindneſſe to the Prophet <hi>Hanani.</hi>
+                           </item>
+                           <item>2 His looking more after Phyſitians then God.</item>
+                        </list>
+                     </item>
+                     <item>5 He fell ſick of a diſeaſe in his feet and died.</item>
+                  </list>
+                  <p>
+                     <hi>Q.</hi> 12. <hi>What is ſaid of</hi> Jehoſaphat?</p>
+                  <list>
+                     <item>1 <hi>A.</hi> He like his Father <hi>Aſa</hi> maintained true Religion.</item>
+                     <item>2 He is blamed for keeping friendſhip with <hi>Ahah.</hi>
+                     </item>
+                     <item>3 He walked in the firſt wayes of <hi>David</hi> be<g ref="char:EOLhyphen"/>ing zealous.</item>
+                     <pb n="32" facs="tcp:31607:21"/>
+                     <item> 4 He cauſed the Prieſts to goe from Towne to Towne to Catechiſe the people.</item>
+                     <item>5 In a time of Warre, he ſeekes God and gets a great victory: he Reigned glori<g ref="char:EOLhyphen"/>ouſly and died peaceably.</item>
+                  </list>
+                  <p>Q: 13. <hi>What is ſaid of Jehoram?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1 He was wicked and Idolatrous, for which he is reproved in a letter from the Prophet <hi>Eliah,</hi> but he deſpiſed it.</item>
+                     <item>2 For his ſinnes God ſmote him with an incurable dſeaſe and paine in his bowells where of he dyed.</item>
+                     <item>3 His death was not lamented, neither was he buried among the Kings of Juda.</item>
+                  </list>
+                  <p>
+                     <hi>Q:</hi> 14. <hi>What is ſaid of Abaziah?</hi>
+                  </p>
+                  <p>
+                     <hi>A:</hi> He was a very wicked King he reigned but one yeare and going to ſee the King of Iſrael is ſlaine there by <hi>Jehu,</hi>
+                  </p>
+                  <p>
+                     <hi>Q:</hi> 15. <hi>What readeſt thou of Queen Athaliah?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1 She being the Queenes mother un<g ref="char:EOLhyphen"/>dertaks to reigne, &amp; killeth all the Roy<g ref="char:EOLhyphen"/>all ſeed, excepting one yong Prince <hi>Joaſh,</hi> who was ſecretly carried away, and pre<g ref="char:EOLhyphen"/>ſerved by his Aunt <hi>Jehoſhebah</hi> the wife of <hi>Jehoiadah</hi> the high Prieſt.</item>
+                     <item>2 This <hi>Queene</hi> was afterwards ſlaine by the command of the high Prieſt, and <hi>Jo<g ref="char:EOLhyphen"/>aſh</hi> the yong Prince ſucceded.</item>
+                  </list>
+                  <pb n="33" facs="tcp:31607:21"/>
+                  <p> 
+                     <hi>Q:</hi> 16. <hi>What is ſaid of Joaſh?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1 <hi>Joaſh</hi> is made King by <hi>Jehoiadah</hi> the high Prieſt and did well ſo long as this Prieſt lived, taking great care for the re<g ref="char:EOLhyphen"/>pairing of the Temple.</item>
+                     <item>2 After the death of his Uncle the high Prieſt, he groweth very wicked, and be<g ref="char:EOLhyphen"/>ing reproved, by his Uncles ſonne then the high Prieſt, he cauſed him to be kil<g ref="char:EOLhyphen"/>led, an ill requitall to his Uncle, who had ſaved his life, &amp; preferred him to the Crowne.</item>
+                     <item>3 <hi>Jehoiadah</hi> dying is buried among the Kings.</item>
+                     <item>4 <hi>Joaſh</hi> by a conſpiracy is ſlaine by his Courtiers.</item>
+                  </list>
+                  <p>Q: 17. <hi>What canſt thou ſay of Amaziah?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1 He was a religious Prince, and re<g ref="char:EOLhyphen"/>venged his Fathers Murther.</item>
+                     <item>2 He challenged <hi>Jehoaſh</hi> King of Iſrael to fight with him, but he is worſted by him.</item>
+                     <item>3 He hired ſouldiers out of Iſrael for an 100 ſhekells of ſilver: but being adviſed by a Prophet, to let theſe Souldiers goe backe againe to their own homes becauſe they were wcked Idolaters he obeyed and is content to looſe the mony. God is able, ſaith the Prophet
+<pb n="34" facs="tcp:31607:22"/>to give thee much more, then this mony commeth to.</item>
+                     <item>4 He fights with the Edomites, and having conquered them, worſhippeth their l<g ref="char:EOLhyphen"/>dole Gods, for which beingreproved by a Prophet, he continued obſtinate, and at laſt growing proud he is killed by a conſpiracy.</item>
+                  </list>
+                  <p>
+                     <hi>Q:</hi> 18. <hi>What read we of Azaria</hi> or <hi>
+                        <g ref="char:V">Ʋ</g>zziah?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1 He was good King and reigned 52 yeares.</item>
+                     <item>2 He overcame the Philiſtians in Battell.</item>
+                     <item>3 He was a Lover of Husbandry and Cat<g ref="char:EOLhyphen"/>tell.</item>
+                     <item>4 At laſt he medling with the Prieſts Of<g ref="char:EOLhyphen"/>fice, he is ſmitten with leproſy, and dyed.</item>
+                  </list>
+                  <p>
+                     <hi>Q:</hi> 19. <hi>What is ſaid of Jotham?</hi>
+                  </p>
+                  <p>
+                     <hi>A:</hi> There is little ſaid of him, only he executed his Fathers Kingly office, after his Father was leprous.</p>
+                  <p>
+                     <hi>Q:</hi> 20. <hi>What is ſaid of Ahaz?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1. He was very wicked: the Scripture ſaith this is that <hi>Ahaz</hi> to ſhew the great<g ref="char:EOLhyphen"/>neſſe of his ſinnes and wickedneſſe, he offered his ſonne to the Idole <hi>Molech</hi> in the fire.</item>
+                     <pb n="35" facs="tcp:31607:22"/>
+                     <item> 2 He loſt part of his Cuntery, and hired the King of Aſſyria to helpe him againſt the Syrians.</item>
+                     <item>3 He put up an Idolatrous Alter after the forme of that he ſaw in Damaſcus, and made great changes in Religion for the worſe, and dyed.</item>
+                  </list>
+                  <p>
+                     <hi>Q:</hi> 21. <hi>What do we read of Hezekiah?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1 He was one of the beſt Kings of Ju<g ref="char:EOLhyphen"/>da, and reformed Religion, and brake the brazen ſerpent, ſet up by <hi>Moſes</hi> in the Wilderneſſe.</item>
+                     <item>2 He kept a ſtately paſſover, and perſwa<g ref="char:EOLhyphen"/>ded all his ſubjects to binde themſelves by a vow to ſerve the Lord.</item>
+                     <item>3 God delivered him and Jeruſalem from the Army of <hi>Senacharth,</hi> an Angell from Heaven fighting for them.</item>
+                     <item>4 He fell ſick, and upon his prayer God added 15 yeares to his life.</item>
+                     <item>5 He was a great builder and became ex<g ref="char:EOLhyphen"/>ceeding famous.</item>
+                     <item>6 He offended God by ſhewing his Trea<g ref="char:EOLhyphen"/>ſures ont of vaine glory to the Ambaſſa<g ref="char:EOLhyphen"/>dors of the King of Aſſyra, and dyed.</item>
+                  </list>
+                  <p>
+                     <hi>Q:</hi> 22. <hi>What is ſaid of Manaſſeth?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1 He was one of the moſt wicked Ido<g ref="char:EOLhyphen"/>latrous Kings of Juda, and dealt with
+<pb n="36" facs="tcp:31607:23"/>Devills, and wizzards and ſpilt much innocent bloud.</item>
+                     <item>2 He is led away captive into Babylon, and upon his repentance he is reſtored a<g ref="char:EOLhyphen"/>gaine to his Kindome and dyed.</item>
+                  </list>
+                  <p>
+                     <hi>Q:</hi> 23. <hi>What is ſaid of Amon?</hi>
+                  </p>
+                  <p>
+                     <hi>A:</hi> He was very wicked, and is ſlaine by his own ſervants in his houſe.</p>
+                  <p>
+                     <hi>Q:</hi> 24. <hi>What do we read of Joſiah?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1 He was one of the beſt Kings of Ju<g ref="char:EOLhyphen"/>da, and being very yong, when his Fa<g ref="char:EOLhyphen"/>ther was ſlaine he was by the care of his Mother &amp; the high Prieſt religiouſly bred up.</item>
+                     <item>2 The Propheteſſe <hi>Huldah</hi> foretells Gods Judgements upon the land and a Bleſſ<g ref="char:EOLhyphen"/>ing upon him, for humbling himſelfe at the reading of the Law.</item>
+                     <item>3 He kept a moſt ſolemne Paſſover, and deſtroyed the Idolatry of Juda and Iſ<g ref="char:EOLhyphen"/>rael.</item>
+                     <item>4 He goeth contrary to Gods command to war againſt <hi>Pharao Necho,</hi> and is there unfortunately ſlaine, whoſe death was lamented by all ſpecially by the Prophet <hi>Jeremy.</hi>
+                     </item>
+                  </list>
+                  <p>
+                     <hi>Q:</hi> 25. <hi>What is ſaid of Jeboahaz?</hi>
+                  </p>
+                  <pb n="37" facs="tcp:31607:23"/>
+                  <p> 
+                     <hi>A:</hi> He is taken captive by <hi>Pharoah</hi> and dy<g ref="char:EOLhyphen"/>ed in priſon in Egypt.</p>
+                  <p>
+                     <hi>Q:</hi> 26. <hi>What is ſaid of Jehoiakim?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1 He was very wicked, and became Tributary to Egypt, and oppreſſed his ſubjects.</item>
+                     <item>2 The caldeans and other Nations inva<g ref="char:EOLhyphen"/>ded Juda, and diſtreſſed him every way, and he dyed.</item>
+                  </list>
+                  <p>Q: 27. <hi>What do we read of Jehoiachin?</hi>
+                  </p>
+                  <p>
+                     <hi>Nebucadnezar</hi> King of Babylon tooke him his Wife and Children and many of the Nobles of Juda captives into Babylon, there he lived and dyed a priſoner, yet in his latter dayes he had ſome inlargement granted to him in Babylon.</p>
+                  <p>Q: 28. <hi>What is ſaid of Mattaniah alias Zedekiah?</hi>
+                  </p>
+                  <p>
+                     <hi>A:</hi> He was wicked and rebelled againſt the King of Babylon, whereupon the Cal<g ref="char:EOLhyphen"/>deans beſieged the Citty Jeruſalem and tooke it and brnt the Citty and Temple, &amp; carryed away the King and all Juda cap<g ref="char:EOLhyphen"/>tive into Babylon for 70 yeares according to <hi>Jeremys</hi> Prophecy.</p>
+                  <p>Thus far goeth the Hiſtory of the Kings of Juda.</p>
+                  <pb n="38" facs="tcp:31607:24"/>
+                  <p> Here followeth the Hiſtory of the Kings of Iſrael after the Death of SOLOMON.</p>
+                  <p>The 1. Queſtion.</p>
+                  <p>
+                     <hi>WHat is ſaid of</hi> Jeroboam <hi>the firſt King of Iſrael?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A. Jeroboam</hi> for <hi>Solomons</hi> ſinnes is made King of the ten Tribes of Iſrael.</item>
+                     <item>2 He ſetts up Idolls in his dominions for feare his Subjects ſhould goe up to wor<g ref="char:EOLhyphen"/>ſhip in Jeruſalem, and ſo fall off from him againe: For which ſinfull policy this marke of infamy is ſet on his name: <hi>Jeroboam</hi> the Sonne of <hi>Nebat,</hi> who made Iſraell to ſinne.</item>
+                     <item>3 When one of Gods Prophets came to re<g ref="char:EOLhyphen"/>prove, and to reclaime him from his ſins, he ſtretched out his hand againſt that Prophet, whereupon his hand withered, but was againe reſtored.</item>
+                     <item>4 The ſame Prophet ſeduced by a lying Prophet is ſlaine by a Lyon at his re<g ref="char:EOLhyphen"/>turne.</item>
+                     <item>5 <hi>Jereboams</hi> ſonne dyed young, becauſe God ſaw ſome good in him.</item>
+                     <item>6 He had perpetuall warres with the Kings of Juda and dyed.</item>
+                  </list>
+                  <pb n="39" facs="tcp:31607:24"/>
+                  <p> Q: 2. <hi>What is ſaid of</hi> Nadab <hi>his ſonne?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> He being wicked and Idolatrous like his Father, was ſlaine by <hi>Baaſha,</hi> one of his own Subjects, in the ſecond yeare of his Reigne.</p>
+                  <p>Q. 3. <hi>What read we of</hi> Baaſha?</p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1 He executed Gods wrath upon <hi>Jero<g ref="char:EOLhyphen"/>boams</hi> poſterity, and was a great war<g ref="char:EOLhyphen"/>riour:</item>
+                     <item>2 For his wickedneſſe he is told by the Prophet <hi>Jehu</hi> that God would deale with him as he dealt with <hi>Jeroboam.</hi>
+                     </item>
+                  </list>
+                  <p>
+                     <hi>Q:</hi> 4. <hi>What is ſaid of Elah, Zimri and Omri the 3 following Kings?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1 <hi>Elah</hi> being drunck at a feaſt is ſlaine by his ſervant <hi>Zimri:</hi>
+                     </item>
+                     <item>2 <hi>Zimri</hi> having deſtroyed all <hi>Baaſhae's</hi> po<g ref="char:EOLhyphen"/>ſterity is purſued by <hi>Omri</hi> he fleeth to his Pallace and burnes himſelfe and Pal<g ref="char:EOLhyphen"/>lace.</item>
+                     <item>3 <hi>Omri</hi> is made King by the Souldiers, and prevaileth againſt <hi>Tibny</hi> his competi<g ref="char:EOLhyphen"/>tour, he built the City Samaria and dyed:</item>
+                  </list>
+                  <p>Q: 5. <hi>What is ſaid of</hi> Ahab, Omrie's <hi>ſonne?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A. Ahab</hi> was worſe then any of the Kings
+<pb n="40" facs="tcp:31607:25"/>of Iſrael before him, for he brought with his wife <hi>Iezabel</hi> the Idol Baal into the land.</item>
+                     <item>2 In his dayes Jerico was built: And for 3 yeares &amp; 6 months there was no raine in the land, which cauſed a great fa<g ref="char:EOLhyphen"/>mine.</item>
+                     <item>3 He cauſed innocent <hi>Naboth</hi> to be ſtoned, by his wives inſtigation, to get his Viny<g ref="char:EOLhyphen"/>ard.</item>
+                     <item>4 Upon the Prophet <hi>Elia's</hi> meſſage from God for a heavy judgment he humbled himſelfe for the preſent, whereupon the judgment is put off for a time.</item>
+                     <item>5 He was victorious in two great battells which he fought with <hi>Benhadad</hi> King of Syria.</item>
+                     <item>6 He goeth againſt <hi>Ramoth Gilead</hi> to battell contrary to the Prophet <hi>Micha's</hi> counſell and is ſlaine in the field, <hi>Iehoſaphat</hi> King of Juda being with him.</item>
+                     <item>7 In his dayes the Prophet <hi>Elia</hi> was fa<g ref="char:EOLhyphen"/>mous.</item>
+                  </list>
+                  <p>Q: 6. <hi>What read we of Elia the Prophet?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1. He foretells a famine upon the land.</item>
+                     <item>2 He is fed by ravens.</item>
+                     <item>3 He increaſeth the Widdowes oile and meale, &amp; raiſed a dead child to life.</item>
+                     <pb n="41" facs="tcp:31607:25"/>
+                     <item> 4 <hi>Obadia</hi> a good Courtier bringeth him to <hi>Ahab, Elia</hi> calls <hi>Baalls</hi> Prieſts to a Sa<g ref="char:EOLhyphen"/>crifice, and puts them to death.</item>
+                     <item>5 At <hi>Elia's</hi> prayer God ſent raine.</item>
+                     <item>6 For feare of Queene <hi>Jezebel</hi> he fled in<g ref="char:EOLhyphen"/>to a Wilderneſſe, where he is fed by an Angell, God appeareth to him and commandeth him, to annoint <hi>Eliſha</hi> to be a Prophet in his roome.</item>
+                     <item>7 <hi>Elia</hi> being ſent for by King <hi>Ahaziah A<g ref="char:EOLhyphen"/>habs</hi> ſonne, cauſed fire to come downe from heaven, to conſume the firſt and ſecond Captaines and their fifties, he ſpareth the third Captaine, and goeth with him to the King.</item>
+                     <item>8 He was taken up into heaven in a fie<g ref="char:EOLhyphen"/>ry Charet, <hi>Eliſha</hi> being by and behold<g ref="char:EOLhyphen"/>ing it.</item>
+                  </list>
+                  <p>
+                     <hi>Q:</hi> 7. <hi>What is ſaid of Ahazia Ahabs ſonne, the eight King of Iſrael?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi>
+                     <list>
+                        <item>1 He was wicked like his Father, <hi>Jehoſaphat</hi> refuſeth his friendſhip.</item>
+                        <item>2 He dyed of a fall through a letteſſe according to the word of <hi>Elia.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>
+                     <hi>Q:</hi> 8. <hi>What read we of</hi> Jehoram?</p>
+                  <p>
+                     <hi>A.</hi>
+                     <list>
+                        <item>1 He was <hi>Ahazia's</hi> yonger brother.</item>
+                        <pb n="42" facs="tcp:31607:26"/>
+                        <item> 2. For <hi>Jehoſhaphats</hi> ſake he obtained a great victory againſt the Moabites.</item>
+                        <item>3 He is ſlaine by <hi>Jehu</hi> one of his Captaines.</item>
+                        <item>4 In his daies <hi>Eliſha</hi> prophecied.</item>
+                     </list>
+                  </p>
+                  <p>Q: 9. <hi>What doe we read of Eliſha the Prophet?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> He being with <hi>Elia</hi> going up to hea<g ref="char:EOLhyphen"/>ven got his Mantle, and therewith divi<g ref="char:EOLhyphen"/>ded the waters of Jordan as <hi>Elia</hi> had done before.</item>
+                     <item>2 <hi>A.</hi> He healed the bitter waters of Jeri<g ref="char:EOLhyphen"/>cho.</item>
+                     <item>3 He cauſed two Beares to deſtroy forty two Schoole-boyes for nicknaming and calling him Bald-head.</item>
+                     <item>4 He multiplied the Widdowes oyle, and raiſed the Shunamites dead child to life.</item>
+                     <item>5 He healed the pottage.
+<list>
+                           <item>Cauſed the Iron to ſwimme.</item>
+                           <item>He fed an hundred men with a few loaves.</item>
+                           <item>He cured <hi>Naamans</hi> leproſy.</item>
+                           <item>He puniſhed his ſervant <hi>Gehazy</hi> for lying and for taking a reward.</item>
+                           <item>He told the ſecrets of the King of Syria to the King of Iſrael.</item>
+                           <item>He ſmote the Syrians who came to ap<g ref="char:EOLhyphen"/>prehend him, with blindneſſe.</item>
+                           <item>He foretold ſuddaine plenty in Samaria, in a time of a grievous famine.</item>
+                        </list>
+                     </item>
+                     <pb n="43" facs="tcp:31607:26"/>
+                     <item> 6 He entertained <hi>Hazael</hi> with teares, and told him of his future greatneſſe and cruelty.</item>
+                     <item>7 Upon his death-bed he promiſed the King, who came to ſee him, three victo<g ref="char:EOLhyphen"/>ries againſt the Syrians.</item>
+                     <item>8 He dyed, and in his grave, a dead ſouldi<g ref="char:EOLhyphen"/>er is raiſed to life by touching his bones.</item>
+                  </list>
+                  <p>
+                     <hi>Q:</hi> 10. <hi>What is ſaid of</hi> Jehu?</p>
+                  <list>
+                     <item>1 <hi>A.</hi> Of a Captaine he is made King over Iſrael, he deſtroyed all <hi>Ahabs</hi> poſterity, he killed both the Kings of Juda and Iſrael, he cauſed Queene <hi>Iezebel</hi> to be thrown out of a Window, and he killed all the worſhippers of <hi>Baal.</hi>
+                     </item>
+                     <item>2 For his zeale againſt <hi>Baal</hi> and <hi>Ahabs</hi> houſe God promiſed him, that foure of his poſterity ſhould be Kings.</item>
+                     <item>3 He was a great Warrior, but wicked &amp; dyed.</item>
+                  </list>
+                  <p>Q. 11. <hi>What read we of his ſonne</hi> Jehoahaz.</p>
+                  <list>
+                     <item>1 <hi>A.</hi> He walked in the wayes of <hi>Jeroboam,</hi>
+                     </item>
+                     <item>2 When the Syrians invaded his land, he cryed to God, and he delivered him, and he dyed peaceably.</item>
+                  </list>
+                  <p>
+                     <hi>Q.</hi> 12. <hi>What is ſaid of</hi> Jehoaſh?</p>
+                  <list>
+                     <item>1 He lived in his Fathers ſinne.</item>
+                     <pb n="44" facs="tcp:31607:27"/>
+                     <item> 2 He fought with <hi>Amaziah</hi> King of Juda, and overcame him, he was a great War<g ref="char:EOLhyphen"/>rior, and dyed.</item>
+                  </list>
+                  <p>
+                     <hi>Q:</hi> 13. <hi>What is ſaid of</hi> Jeroboam <hi>and</hi> Zachariah?</p>
+                  <list>
+                     <item>1 <hi>A. Jeroboam</hi> was a great warrior, and had good ſucceſſe and died.</item>
+                     <item>2 <hi>Zacharia</hi> ſucceeded him, and reigned but halfe a yeare, and was ſlaine by <hi>Shallum</hi> one of his own Subjects.</item>
+                  </list>
+                  <p>
+                     <hi>Q:</hi> 14. <hi>What doe we read of the other five, being the laſt Kings of Iſrael?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A. Shallum</hi> reigned one Month, and is ſlaine by <hi>Menhaem.</hi>
+                     </item>
+                     <item>2 <hi>Menhaem</hi> reigned ten years, and oppreſ<g ref="char:EOLhyphen"/>ſed his Subjects by taxes.</item>
+                     <item>3 <hi>Pekaiah</hi> his ſonne reigned two years and is killed by <hi>Pekah</hi> a Captaine of his Army.</item>
+                     <item>4 <hi>Pekah</hi> is killed by <hi>Hoſheah.</hi>
+                     </item>
+                     <item>5 In <hi>Pekah</hi> and <hi>Hoſhea</hi>'s daies, Iſraell is car<g ref="char:EOLhyphen"/>ried away captive to Babylon; and thus ended the Kingdome of Iſrael.</item>
+                  </list>
+               </div>
+               <div n="1-2 Chronicles" type="books">
+                  <pb n="45" facs="tcp:31607:27"/>
+                  <head>The Firſt and Second Bookes of CHRONICLES.</head>
+                  <p>Q. 1. <hi>VVhy are theſe Books ſo called?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> Becauſe in theſe are recorded many memorable things from <hi>Adam</hi> to thoſe times.</item>
+                     <item>2 Becauſe therein are contained ſome Hi<g ref="char:EOLhyphen"/>ſtories of the Kings of Iſrael and Juda.</item>
+                  </list>
+               </div>
+               <div n="Ezra" type="book">
+                  <head>EZRA.</head>
+                  <p>
+                     <hi>Q.</hi> 1. <hi>WHat is the ſumme of this Book?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> How the Jewes after 70 yeares cap<g ref="char:EOLhyphen"/>tivity returned, by command from the Emperour <hi>Cyrus,</hi> into Judea, and ſet up againe the Temple and Worſhip of God in leruſalem, and built the City.</item>
+                     <item>2 <hi>Ezra</hi> the High Prieſt being alſo returned taught the People the Law of Moſes, and cauſed all that had married outlandiſh woemen, to ſend their Wives and Chil<g ref="char:EOLhyphen"/>dren away from them, becauſe, Jeſus Chriſt being to come of the Tribe of luda, God would have a holy ſeed pre<g ref="char:EOLhyphen"/>lerved.</item>
+                     <pb n="46" facs="tcp:31607:28"/>
+                     <item> 3 Old people ſeeing the new Temple and City and remembring the Glory of the old, wept, becauſe nor ſo glorious and ſttately, as was that built by <hi>Solomon,</hi> but they are told by the Prophet that this latter Temple ſhall be far more glorious then the former, becauſe the Promiſed Meſſiah of the World ſhould teach there in priſon.</item>
+                  </list>
+               </div>
+               <div n="Nehemia" type="book">
+                  <head>NEHEMIA.</head>
+                  <p>Q: <hi>WHAT is chiefly contained in this book?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1. <hi>Nehemiah</hi> a captive Jew, and a great favorite of the Emperour <hi>Artaxerxes</hi> hath leave and meanes granted him to returne to his own Country, and to ſet forward the building of the Citty and Temple in Jeruſalem.</item>
+                     <item>2. Being returned he is much oppoſed in the worke by <hi>Tobia</hi> and <hi>Sanballat,</hi> yet protected of God, the people being conſtrained to worke with one hand, and to hold a ſword in the other.</item>
+                     <item>3 He did much for Gods worſhip, and for his Countryes good.</item>
+                  </list>
+               </div>
+               <div n="Esther" type="book">
+                  <pb n="47" facs="tcp:31607:28"/>
+                  <head>HESTER.</head>
+                  <p>
+                     <hi>Q: WHAT is the ſumme of this book?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1 How <hi>Hester</hi> a poore jewiſh captive maid is preferred to be Queen and Em<g ref="char:EOLhyphen"/>preſſe to the Emperour <hi>Ahaſhuexus</hi> after that the former Queene <hi>Vaſthy</hi> was de<g ref="char:EOLhyphen"/>poſed, for refuſing to come to the King when he ſent for her, to ſhew her beauty to the Nobles being then aſſembled at a great feaſt the emperour had made for them, which feaſt laſted 180 dayes, where none was compelled to drinke, but every man left to his freedome.</item>
+                     <item>2 <hi>Haman</hi> a Noble man, and a great favo<g ref="char:EOLhyphen"/>rite at that Court, obtained a decree from the Emperour to kill all the people of God, the Jewes in one day becauſe <hi>Mardochy</hi> the Jew would not bow the knee before him.</item>
+                     <item>3 How Gods wonderfull providence wrought for their deliverance and pre<g ref="char:EOLhyphen"/>ſervation by the care and prayer and faſting of <hi>Mardochy</hi> and of Queen <hi>He<g ref="char:EOLhyphen"/>ſter.</hi>
+                     </item>
+                     <item>4 How <hi>Hamans</hi> intended miſcheife is diſ<g ref="char:EOLhyphen"/>covered
+<pb n="48" facs="tcp:31607:29"/>to the King at a feaſt and pre<g ref="char:EOLhyphen"/>vented, and how <hi>Haman</hi> was hanged on the ſame Gallowes, he had ſet up for <hi>Mardochy,</hi> for which deliverance the lews kept a yearely feaſt, called <hi>Purim</hi> or <hi>Lor.</hi>
+                     </item>
+                  </list>
+                  <p>
+                     <hi>Q:</hi> 2, <hi>Why would not Mardochy how to Haman?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Becauſe <hi>Haman</hi> was by Nation an A<g ref="char:EOLhyphen"/>malekite, which Nation was curſed of God, and the Iſraelites were commanded to ab<g ref="char:EOLhyphen"/>horre them. <hi>Exod.</hi> 17.16. where <hi>Moſes</hi> ſaith, that God will have warre with <hi>Ama<g ref="char:EOLhyphen"/>lek</hi> from generation to generation.</p>
+               </div>
+               <div n="Job" type="book">
+                  <head>JOB.</head>
+                  <p>
+                     <hi>Q.</hi> 1. <hi>VVHat read we of Iob?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> That he was a very rich man, and a very Godly man, having ſeaven Sonnes and three Daughters, and a very great houſhold.</item>
+                     <item>2 God was pleaſed to give way to Satan to deprive him of all his Eſtate, Chil<g ref="char:EOLhyphen"/>dren, Friends, and his health, to trie his patience.</item>
+                     <item>3 <hi>Iobs</hi> behaviour under his wofull loſſe, pain &amp; ſorrow was exceeding comforta<g ref="char:EOLhyphen"/>ble, full of Faith and patience, bleſſing God for all.</item>
+                     <pb n="49" facs="tcp:31607:29"/>
+                     <item> 4 Some of his old friends came to viſit, and to comfort him in his diſtreſſe, en<g ref="char:EOLhyphen"/>deavouring to convince him that God plagued him for ſome notorious ſinne, as for hypocriſy or the like, whereupon followeth a ſharpe and a witty diſpute between them.</item>
+                  </list>
+                  <p>The Queſtion was, whether <hi>Iob</hi> ſuffe<g ref="char:EOLhyphen"/>red for hypocriſy. His friends affirme it, and ordered all their diſcourſes ac<g ref="char:EOLhyphen"/>cordingly.</p>
+                  <p>
+                     <hi>Iob</hi> denies it, and maintaines his inte<g ref="char:EOLhyphen"/>grity. At laſt God himſelfe is the Mo<g ref="char:EOLhyphen"/>derator between them, <hi>Iob</hi> is juſtified and his friends condemned, and <hi>Iob</hi> muſt pray God to forgive their miſtakes.</p>
+                  <p>
+                     <hi>Q.</hi> 2. <hi>What was the event and iſſue of Iobs tri<g ref="char:EOLhyphen"/>ells?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The iſſue was moſt comfortable, for,</p>
+                  <list>
+                     <item>1 He recovered his former health and ſtrength.</item>
+                     <item>2 God bleſſed him with a greater worldly eſtate, then he had at firſt.</item>
+                     <item>3 God gave him as many Children as he had before.</item>
+                     <item>4 He lived 140 yeares after his troubles &amp; dyed.</item>
+                  </list>
+               </div>
+               <div n="Psalms" type="book">
+                  <pb n="50" facs="tcp:31607:30"/>
+                  <head>The Book of PSALMES.</head>
+                  <p>The 1. Queſtion. <hi>WHat ſay you of the Book of Pſalmes?</hi>
+                  </p>
+                  <list>
+                     <item>1 This Book of Pſalmes is one of the moſt excellent Books of holy Scripture, won<g ref="char:EOLhyphen"/>derfully fitted for all mens occations, whether in adverſity or in proſperity.</item>
+                     <item>2 It is thought by the Learned, that <hi>Eſdras</hi> collected theſe Pſalmes, and put them into this order we now read them in.</item>
+                     <item>3 Chriſtians in former times were ſo in love with this Book, that one while they would read it over every weeke, ano<g ref="char:EOLhyphen"/>ther while every moneths</item>
+                     <item>4 It is a Book full of prayers and thanks<g ref="char:EOLhyphen"/>givings: ſeaven Pſalmes are called peni<g ref="char:EOLhyphen"/>tentiall Pſalmes, becauſe <hi>David</hi> compo<g ref="char:EOLhyphen"/>ſed them or ſome of them, at a time when he repenced for his ſinnes, fit to be often read by us, and they are theſe;
+<list>
+                           <item>The 6</item>
+                           <item>The 32</item>
+                           <item>The 38</item>
+                           <item>The 51</item>
+                           <item>The 102</item>
+                           <item>The 130</item>
+                           <item>The 143</item>
+                        </list>
+                     </item>
+                     <item>5 In times of ſickneſſe or other troubles read alſo
+<list>
+                           <pb n="51" facs="tcp:31607:30"/>
+                           <item> The 25 Pſalme.</item>
+                           <item>The 39</item>
+                           <item>The 88</item>
+                           <item>The 22</item>
+                           <item>The 44 with others.</item>
+                        </list>
+                     </item>
+                     <item>6 In times of proſperity, when thou woul<g ref="char:EOLhyphen"/>deſt give God thankes for a bleſſing re<g ref="char:EOLhyphen"/>ceived, read or ling
+<list>
+                           <item>The 19 Pſalme</item>
+                           <item>The 65</item>
+                           <item>The 103</item>
+                           <item>The 104</item>
+                           <item>The 107 with others.</item>
+                        </list>
+                     </item>
+                     <item>7 They are called the Pſalmes of <hi>David,</hi> becauſe the Kingly Prophet David made moſt of them, though not all, for many Pſalmes were made by other holy men after <hi>Davids</hi> death: Chriſt and his Apo<g ref="char:EOLhyphen"/>ſtles doe often repeat things out of it.</item>
+                  </list>
+                  <p>This Book is very uſefull for the wea<g ref="char:EOLhyphen"/>ker and more ignorant people.</p>
+               </div>
+               <div n="Proverbs-Ecclesiastes-Song of Solomon" type="books">
+                  <head>PROVERBS, ECCLESIASTES, CANTICLES.</head>
+                  <p>The 1. Queſtion. <hi>WHat ſay you of theſe three Bookes of So<g ref="char:EOLhyphen"/>lomon?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> The Book of Proverbs containes
+<pb n="52" facs="tcp:31607:31"/>much heavenly matter in few words, e<g ref="char:EOLhyphen"/>very Chapter, and ſometimes every verſe holding forth diverſe Truths.</item>
+                     <item>2 In the Book of <hi>Eccleſiaſtes Solomon</hi> like a Preacher inſtructs us, how to look after true bleſſedneſſe, and convinces us, that all things under the Sunne are vanity, and vexation of Spirit, and he is excee<g ref="char:EOLhyphen"/>ding earneſt with young folkes to ſerve God betimes.</item>
+                     <item>3 In the <hi>Canticles, Solomon</hi> ſets forth the mutuall and entire love, betwixt Jeſus Chriſt the Bridegroome, and all Belie<g ref="char:EOLhyphen"/>vers his ſpouſe.</item>
+                  </list>
+                  <p>This Book is to be read with all Chri<g ref="char:EOLhyphen"/>ſtian reverence and holy affections. Wan<g ref="char:EOLhyphen"/>ton and filthy people, are very unfit to Read this or any other part of holy writ.</p>
+               </div>
+               <div n="prophetic books generally" type="books">
+                  <head>Of the Holy Prophets of the <hi>Old Testament.</hi>
+                  </head>
+                  <p>Q. 1. <hi>HOw many Prophets have left us their Books in the Old Teſtament?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Sixteene: whereof the foure firſt are called the greater Prophets, and the o<g ref="char:EOLhyphen"/>ther twelve are called the leſſer Pro<g ref="char:EOLhyphen"/>phets,
+<pb n="53" facs="tcp:31607:31"/>becauſe they have not written ſo largely as the foure greater have done.</p>
+                  <p>Q: 2. <hi>What ſaiſt thou of the Prophet Eſay?</hi>
+                  </p>
+                  <list>
+                     <item>1 He and <hi>Jeremy</hi> Preached before the Ba<g ref="char:EOLhyphen"/>bylonian captivity: <hi>Ezekiel</hi> and <hi>Daniel</hi> Prophecyed in the captivity.</item>
+                     <item>2 <hi>Eſay</hi> ſpeaks ſo ſweetly and plainly of Chriſts Nativity and Paſſion as if he had ſeen it, and is therefore called a Prophe<g ref="char:EOLhyphen"/>ticall Evangeliſt.</item>
+                  </list>
+               </div>
+               <div n="Jeremiah-Lamentations" type="books">
+                  <head>JEREMY &amp; LAMENTATION.</head>
+                  <p>Q. 1. <hi>WHat ſaiſt thou of</hi> Jeremy?</p>
+                  <list>
+                     <item>1 <hi>A.</hi> He was called to be a Prophet, when he was young.</item>
+                     <item>2 He Preached in Jeruſalem, when the Ci<g ref="char:EOLhyphen"/>ty was beſiedged, and he often intreated King and People with much importuni<g ref="char:EOLhyphen"/>ty to hearken to Gods word, and to pre<g ref="char:EOLhyphen"/>ſerve the Citty and Temple from burn<g ref="char:EOLhyphen"/>ing, and themſelves from bitter bon<g ref="char:EOLhyphen"/>dage. For which good Counſell this Prophet is hated, and continually kept in wofull priſons.</item>
+                     <pb n="54" facs="tcp:31607:32"/>
+                     <item> 3 At laſt Jeruſalem is taken by the Gal<g ref="char:EOLhyphen"/>deans and deſtroyed whereupon <hi>Jeremy</hi> hauing his liberty granted by the Cal<g ref="char:EOLhyphen"/>dean Generall laments over the ſad ruine of his Country in the Booke of the La<g ref="char:EOLhyphen"/>mentations.</item>
+                  </list>
+               </div>
+               <div n="Ezechiel" type="book">
+                  <head>EZEKIEL.</head>
+                  <p>Q: <hi>WHat canſt thou ſay of Ezechiel?</hi>
+                  </p>
+                  <p>
+                     <hi>A:</hi> He preached to the Jewes at Baby<g ref="char:EOLhyphen"/>lon in their captivity, convinced them o<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Gods juſt judgments upon them for their ſinnes and aſſured them of future delive<g ref="char:EOLhyphen"/>rance, and of the rebuilding of Jeruſalem and of the rebuilding of the Temple, for which purpoſe he hath many viſions.</p>
+               </div>
+               <div n="Daniel" type="book">
+                  <head>DANIEL.</head>
+                  <p>Q: <hi>WHat is ſaid of Daniel?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1 He for his ſingular wiſdome and Faithfulneſſe is prefered to very great honour under thoſe three Emperours eſpecially <hi>Nebucadnezar, Beltſhaſſar,</hi> and <hi>Darius.</hi>
+                     </item>
+                     <pb n="55" facs="tcp:31607:32"/>
+                     <item> 2 Three of his fellow captives are throwne into a fiety Furnace; and <hi>Daniel</hi> himſelfe is caſt into a Lyons den, but are all pre<g ref="char:EOLhyphen"/>ſerved they truſting in God.</item>
+                     <item>3 God declared much of his minde to <hi>Daniel,</hi> concerning things to come, by viſions Angells, he ſpeakes of the Re<g ref="char:EOLhyphen"/>ſurrection and the day of Judgment in the laſt Chapter.</item>
+                  </list>
+               </div>
+               <div n="minor prophets" type="books">
+                  <head>The twelve leſſer PROPHETS.</head>
+                  <p>Q. <hi>WHat ſaiſt thou of them?</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>A:</hi> 1 Of the twelve leſſer Prohets, ſome preached before the Captivity, ſome in, and ſome after it.</item>
+                     <item>2 Their maine buſineſſe was to perſwade people to repentance, and to threaten the impenitent with Gods wrath and to comfort the penitent.</item>
+                     <item>3 The laſt Prophet was <hi>Malachy,</hi> who Pro<g ref="char:EOLhyphen"/>phecyed of <hi>John</hi> the Baptiſt and of the Comming of Jeſus Chriſt the Sonne of Righteouſneſſe.</item>
+                  </list>
+               </div>
+            </div>
+            <div n="apocrypha" type="part">
+               <pb n="56" facs="tcp:31607:33"/>
+               <head>APOCRYPHA.</head>
+               <p>Q. 1. <hi>WHat ſaiſt thou of the Apocripha Books, uſually bound up with the Canonical Books of Scripture?</hi>
+               </p>
+               <p>The Apocrypha Books are not the pure infallible word of God: Becauſe,</p>
+               <list>
+                  <item>1 They containe many fabulous things, as the Hiſtory of <hi>Suſanna,</hi> of <hi>Bel</hi> and the <hi>Draggon,</hi> of <hi>Judith</hi> and the like.</item>
+                  <item>2 Becauſe they were not written by Pro<g ref="char:EOLhyphen"/>phets immediately inſpired by the Holy Ghoſt. For the Author of the Books of the <hi>Maccabes</hi> in the latter end, asketh par<g ref="char:EOLhyphen"/>don, if he have not done well, which a<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> greeth not with the Majeſty of holy Scripture.</item>
+                  <item>3 Becauſe theſe Books containe many things contrary to the Truth, as diverſe paſſages in the Book of <hi>Tobit</hi> and the reſt teſtify.</item>
+                  <item>4 Becauſe they were not written in the He<g ref="char:EOLhyphen"/>brew Language, as the Canonicall books of the Old Teſtament were. Neither is a<g ref="char:EOLhyphen"/>ny of them mentioned by Chriſt or his Apoſtles in the New Teſtament.</item>
+               </list>
+               <p>We may read them, and take notice of ſome paſſages concerning the people of
+<pb n="57" facs="tcp:31607:33"/>God in thoſe daies, we may alſo ſee in the reading of them, the difference twixt the writings of meere men, and thoſe that are written by holy Prophets inſpired by the Holy Ghoſt. 2 <hi>Pet.</hi> 1.19.</p>
+            </div>
+            <div n="New Testament" type="part">
+               <head>The New TESTAMENT.</head>
+               <p>Q. 1. <hi>WHY is it called the</hi> New Teſtament?</p>
+               <p>
+                  <hi>A.</hi> Becauſe it doth diſcover to us the free Grace and Mercies of God promiſed in the Covenant of Grace. For God made two Covenants with the World;</p>
+               <list>
+                  <item>1 A Covenant of Workes, which is, Doe this and thou ſhalt live.</item>
+                  <item>2 A Covenant of Grace, and that is, Believe and thou ſhalt live, as it is in the Goſpell.</item>
+               </list>
+               <p>Q: 2. <hi>What is the Goſpell?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Goſpell declareth the glad ti<g ref="char:EOLhyphen"/>dings of Salvation by Jeſus Chriſt: where <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ote that
+<list>
+                     <item>The Old Teſtament ſpeaks chiefely of the Acts of God the Father.</item>
+                     <pb n="58" facs="tcp:31607:34"/>
+                     <item> The foure Goſpells ſet forth the workes of God the Sonne.</item>
+                     <item>The Acts and Epiſtles of the Apoſtles ſhew forth the workes and wonders of God the Holy Ghoſt after Chriſts aſcen<g ref="char:EOLhyphen"/>tion into Heaven</item>
+                  </list>
+               </p>
+               <p>Q. 3. <hi>Which are the chiefe Sermons of Chriſt a Chri<g ref="char:EOLhyphen"/>ſtian ſhould often read and learne to underſtand?</hi>
+               </p>
+               <p>A. There are foure eſpecially.</p>
+               <list>
+                  <item>Firſt Chriſts Sermon upon the Mount i<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> the 5, 6, and 7. Chapters of S <hi>Matthew.</hi>
+                  </item>
+                  <item>Secondly his Sermon to the Miniſters of the Goſpell in the 10. Chapter of S <hi>Matthew.</hi>
+                  </item>
+                  <item>Thirdly his Sermon of the day of judge<g ref="char:EOLhyphen"/>ment and the end of the world in the 24, and 25. Chapter of S. <hi>Mathew.</hi>
+                  </item>
+                  <item>Fourthly his farewell Sermon to his Diſ<g ref="char:EOLhyphen"/>ciples in the 14, 15, and 16. Chapters of S, <hi>Iohn.</hi>
+                  </item>
+               </list>
+               <p>To which Sermons adde Chriſts Heavenly Prayer for the Church, the 17. Chapter of S. <hi>Iohn.</hi>
+               </p>
+               <div n="Matthew" type="book">
+                  <head>S. MATTHEW.</head>
+                  <p>Q. <hi>WHat ſaiſt thou of</hi> S. Matthew?</p>
+                  <list>
+                     <pb n="59" facs="tcp:31607:34"/>
+                     <item> 1 <hi>A.</hi> He was called by Chriſt from the re<g ref="char:EOLhyphen"/>ceipt of cuſtome to be an Apoſtle, and he was willing to forſake all and to fol<g ref="char:EOLhyphen"/>low him.</item>
+                     <item>2 His Goſpell containes Chriſt's Nativity, his life, death and Reſurrection.</item>
+                     <item>3 S. <hi>Matthew</hi> writes ſome things, which o<g ref="char:EOLhyphen"/>ther Evangeliſts have not; as
+<list>
+                           <item>1 The genealogy of Chriſt from <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> downeward to <hi>Joſeph</hi> and <hi>Mary.</hi>
+                           </item>
+                           <item>2 The Hiſtory of the Wiſe Men.</item>
+                           <item>3 <hi>Joſephs</hi> purpoſe to forſake his eſpou<g ref="char:EOLhyphen"/>ſed Wife upon a miſtake.</item>
+                           <item>4 Chriſts fleeing into Egypt from the fury of King <hi>Herod.</hi>
+                           </item>
+                           <item>5 The bloudy murther of the Infants of Bethlehem.</item>
+                           <item>6 Some Parables, which the other E<g ref="char:EOLhyphen"/>vangeliſts have not.</item>
+                        </list>
+                     </item>
+                  </list>
+               </div>
+               <div n="Mark" type="book">
+                  <head>S. MARK.</head>
+                  <p>Q <hi>WHat canst thou ſay of S. Mark?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> S. <hi>Mark</hi> was no Apoſtle, but an Evan<g ref="char:EOLhyphen"/>geliſt, and a Diſciple of S. <hi>Peter,</hi> with whoſe help he wrote the Hiſtory of Chriſts Life, Death, Reſurrection and Aſcenſion.</item>
+                     <pb n="60" facs="tcp:31607:35"/>
+                     <item> 2 This Evangeliſt is more large in the de<g ref="char:EOLhyphen"/>ſcription of Chriſts Miracles, then in o<g ref="char:EOLhyphen"/>ther paſſages of Chriſts Life and Death.</item>
+                  </list>
+               </div>
+               <div n="Luke" type="book">
+                  <head>S. LUKE.</head>
+                  <p>Q. <hi>WHat ſay you of his Goſpell and of him?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> S. Luke by profeſſion a Phyſitian was one of the 70 Diſciples, employed by S. <hi>Paul</hi> in the planting of the Go<g ref="char:EOLhyphen"/>ſpell.</item>
+                     <item>2 He obſerveth many things, which other Evangeliſts have omitted, as
+<list>
+                           <item>1 The Hiſtory of <hi>Zachary</hi> and <hi>Elizabeth,</hi> and the Nativity of John the Baptiſt.</item>
+                           <item>2 The Angell Gabriells ſalutation to the bleſſed Virgin Mary.</item>
+                           <item>3 The Hiſtory of old <hi>Simeon,</hi> and of <hi>An<g ref="char:EOLhyphen"/>na</hi> the Propheteſſe.</item>
+                           <item>4 Chriſts diſputing with the Doctors, when he was but twelve years old.</item>
+                        </list>
+                     </item>
+                     <item>5 The time of Chriſts Nativity, namely in the Reigne of <hi>Auguſtus</hi> the Emperour of Rome.</item>
+                     <item>6 The manifeſtation of Chriſts Nativity by Angells to the Sheapheards.</item>
+                     <item>7 Chriſts Circumciſion the eight day.</item>
+                     <pb n="61" facs="tcp:31607:35"/>
+                     <item> 8 The Genealogy of Chriſt upward to <hi>A<g ref="char:EOLhyphen"/>dam.</hi>
+                     </item>
+                     <item>9 The Parable of <hi>Dives</hi> and <hi>Lazarus,</hi> and of the Prodigall ſonne, &amp;c.</item>
+                     <item>10 Chriſts praying whole nights in deſert mountaines alone.</item>
+                     <item>11 The Hiſtory of the two Diſciples going to <hi>Emaus</hi> on Eaſter day.</item>
+                  </list>
+               </div>
+               <div n="John" type="book">
+                  <head>S. JOHN.</head>
+                  <p>Q. <hi>WHat can you ſay of S.</hi> John?</p>
+                  <list>
+                     <item>1 <hi>A.</hi> He was one of the twelve Apoſtles whom Jeſus loved, he outlived all the Apoſtles, and dyed a naturall death at Epheſus, if we believe the Church Hiſto<g ref="char:EOLhyphen"/>ry: All the reſt of the Apoſtles were killed.</item>
+                     <item>2 He begins his Goſpell with many argu<g ref="char:EOLhyphen"/>ments, to prove that Jeſus Chriſt was God from everlaſting, coaequall to the Father, and to the holy Ghoſt.</item>
+                     <item>3 Moſt of his Hiſtories are omitted by the other Evangeliſts, as
+<list>
+                           <item>1 The calling of <hi>Nathaniel:</hi>
+                           </item>
+                           <item>2 Chriſts Miracle at a marriage in <hi>Cana.</hi>
+                           </item>
+                           <item>3 Chriſts diſpute with <hi>Nicodemus</hi> about regeneration.</item>
+                           <pb n="62" facs="tcp:31607:36"/>
+                           <item> 1 His diſcourſe with the Woman of Sa. maria.</item>
+                           <item>5 His healing of a man at the poole of Betheſda, that had been 38 years ſick.</item>
+                           <item>6 His ſeverall diſputes with the Jewes about his divine nature, and concer<g ref="char:EOLhyphen"/>ning his reall Spirituall ſence in the Sacrament of the Lords Supper.</item>
+                           <item>7 His raiſing of <hi>Lazarus</hi> from the dead.</item>
+                           <item>8 His waſhing of the Diſciples feet.</item>
+                           <item>9 Chriſts reſtoring of <hi>Peter</hi> to his for<g ref="char:EOLhyphen"/>mer place by a threefold confeſſion of him, as he had before three times de<g ref="char:EOLhyphen"/>nyed him.</item>
+                        </list>
+                     </item>
+                  </list>
+               </div>
+               <div n="Acts" type="book">
+                  <head>ACTS.</head>
+                  <p>
+                     <hi>Q: WHat ſay you of this Book?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The Penman of the Acts of the Apo<g ref="char:EOLhyphen"/>ſtles was <hi>Luke,</hi> the chiefe Hiſtories whereof are theſe,</p>
+                  <list>
+                     <item>1 Chriſts aſcention into Heaven.</item>
+                     <item>2 The election of <hi>Matthias</hi> to be an Apo<g ref="char:EOLhyphen"/>ſtle in the roome of <hi>Judas</hi> the traitour.</item>
+                     <item>3 The wonderfull comming of the Holy Ghoſt upon the Apoſtles on the day of Penticoſt.</item>
+                     <pb n="63" facs="tcp:31607:36"/>
+                     <item> 4 The healing of a Criple by <hi>Peter</hi> and <hi>John.</hi>
+                     </item>
+                     <item>5 The ſad end of <hi>Ananias</hi> and <hi>Sapphyra.</hi>
+                     </item>
+                     <item>6 The Martyrdome, of <hi>Stephen.</hi>
+                     </item>
+                     <item>7 The miraculous converſion of <hi>Paul.</hi>
+                     </item>
+                     <item>8 The converſion of <hi>Cornelius</hi> by <hi>Peter,</hi> and the converſion of many other Gentiles by <hi>Paul,</hi> as of <hi>Lydia, Sergius Paulus,</hi> the Jaylour, and others.</item>
+                     <item>
+                        <gap reason="illegible: in gutter" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> The Martyrdome of <hi>James,</hi> the impri<g ref="char:EOLhyphen"/>ſonment and deliverance of <hi>Peter</hi> by an Angell.</item>
+                     <item>9 The woefull end of perſecuting <hi>Herod,</hi> who was eaten up alive by wormes for his rage againſt the Church of Chriſt.</item>
+                     <item>10 <hi>Paules</hi> travells and great ſufferings in diverſe places both by Jewes and Gen<g ref="char:EOLhyphen"/>tills.</item>
+                     <item>11 His Sermons before <hi>Felix, Feſtus,</hi> and King <hi>Agrippa.</hi>
+                     </item>
+                     <item>12 His dangerous Sea-voiage to Rome, and his behaviour and converſation there.</item>
+                  </list>
+               </div>
+               <div n="Pauline epistles" type="books">
+                  <head>The fourteen EPISTLES of S. <hi>Paul.</hi>
+                  </head>
+                  <p>
+                     <hi>Q: WHat ſay you of theſe Epiſtles of Paul?</hi>
+                  </p>
+                  <pb n="64" facs="tcp:31607:37"/>
+                  <p> 
+                     <hi>A.</hi> The Apoſtle <hi>Pauls</hi> end in his Epiſtles is.</p>
+                  <list>
+                     <item>1 To convince men of ſin, and ſo of a ne<g ref="char:EOLhyphen"/>ceſſity of Chriſt, the onely Saviour of the world.</item>
+                     <item>2 To ſet forth the unſearcheable riches of Gods free grace in Chriſt to the world.</item>
+                     <item>3 To exhort Chriſtians to thankfulneſſe, and to the performance of their duties towards God, and towards men, whe<g ref="char:EOLhyphen"/>ther our ſuperiors, inferiors or equalls.</item>
+                  </list>
+               </div>
+               <div n="James" type="book">
+                  <head>The Epiſtle of <hi>S.</hi> JAMES.</head>
+                  <p>
+                     <hi>Q.</hi> 1. <hi>VVHat ſay you of this Epiſtle?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> This Apoſtle perſwades Chriſtians to ſhew the truth of Faith by good workes.</item>
+                     <item>2 The Doctrine of S. <hi>James</hi> about juſtifica<g ref="char:EOLhyphen"/>tion is not contrary to that of S. <hi>Pauls</hi> in his Epiſtles, as <hi>Luther</hi> thought at firſt. For
+<list>
+                           <item>As S. <hi>Paul</hi> teacheth, that it is faith that doth juſtify us before God; ſo S. <hi>Iames</hi> ſhewes what Faith it muſt be, namely not a dead, but a living fruit<g ref="char:EOLhyphen"/>full faith.</item>
+                        </list>
+                     </item>
+                  </list>
+               </div>
+               <div n="Petrine epistles" type="books">
+                  <pb n="65" facs="tcp:31607:37"/>
+                  <head>The Firſt and Second Epiſtle of PETER.</head>
+                  <p>
+                     <hi>Q. WHAT ſay you of theſe two Epi<g ref="char:EOLhyphen"/>ſtles?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A.</hi> Theſe two Epiſtles are called gene<g ref="char:EOLhyphen"/>rall Epiſtles, becauſe they were written, not to any particular Nation, or Citty, or Perſon, as thoſe of <hi>Paul,</hi> but to all Chriſtians, whether Jewes or Gen<g ref="char:EOLhyphen"/>tiles.</item>
+                     <item>2 In theſe Epiſtles the Apoſtle <hi>Peters</hi> aime is,
+<list>
+                           <item>1 To exhort Chriſtians to make their calling and election ſure.</item>
+                           <item>2 To exhort us to diſcharge our duties to God and Man.</item>
+                           <item>2 To forewarne us of damnable here<g ref="char:EOLhyphen"/>ſies, and falſe teachers, that would trouble Gods Church in the latter times of the world.</item>
+                        </list>
+                     </item>
+                  </list>
+               </div>
+               <div n="Johannine epistles" type="books">
+                  <pb n="66" facs="tcp:31607:38"/>
+                  <head>The three EPISTLES of <hi>Iohn.</hi>
+                  </head>
+                  <p>
+                     <hi>Q: WHat can you ſay of theſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A:</hi> The Apoſtle <hi>Iohn</hi>'s drift and aime in theſe three Epiſtles is</p>
+                  <list>
+                     <item>1 To commend unto us the deare love of God in Jeſus Chriſt to his Choſen peo<g ref="char:EOLhyphen"/>ple.</item>
+                     <item>2 To perſwade us to Love God againe.</item>
+                     <item>3 To aſſure us that true Love to God doth appeare by our true love to the Bretheren.</item>
+                     <item>4 He commends the Noble Lady of <hi>Aſia</hi> for her Piety and Charity.</item>
+                     <item>5 He commends one <hi>Gajus</hi> a charitable harbourer and reliever of perſecuted Chriſtians in thoſe dayes.</item>
+                     <item>6 He ſharply cenſureth one <hi>Diotrephes</hi> for ambition and pride, loving the prehe<g ref="char:EOLhyphen"/>minence &amp; ſeeking his own Glory more then the Glory of Chriſt, and the ho<g ref="char:EOLhyphen"/>nour of the Goſpell.</item>
+                  </list>
+               </div>
+               <div n="Jude" type="book">
+                  <head>The Epiſtle of JUDE.</head>
+                  <p>
+                     <hi>WHat canſt thou ſay of this Epiſtle?</hi>
+                  </p>
+                  <list>
+                     <pb n="67" facs="tcp:31607:38"/>
+                     <item> 1 <hi>A:</hi> The Apoſtle exhorts Chriſtians to conſtancy in Faith once received.</item>
+                     <item>2 He deſcribeth the evil manners and dan<g ref="char:EOLhyphen"/>gerous opinions of Apoſtates and He<g ref="char:EOLhyphen"/>retiques in the lattter time of the world.</item>
+                  </list>
+               </div>
+               <div n="Revelation (Apocalypse)" type="book">
+                  <head>The APOCALYPS or REVELATION of S. <hi>Iohn.</hi>
+                  </head>
+                  <p>
+                     <hi>Q: VVHat can you ſay of Iohns Revelation?</hi>
+                  </p>
+                  <list>
+                     <item>1 <hi>A:</hi> S. <hi>Iohn</hi> for Religion was baniſhed by the Emperour <hi>Domitian</hi> into a ſolitary Iland, there Jeſus Chriſt appeared to him, and by his Angell revealed to him, what ſhould befall the Church of God tothe end of the world.</item>
+                     <item>2 The three firſt Chapters are hiſtoricall, relating the hiſtory of the ſeven Churches of Aſia.</item>
+                     <item>3 The whole booke is very Myſterious containing viſions and very obſcure things. Yet a ſpecialll bleſſing is Promi<g ref="char:EOLhyphen"/>ſed to the carefull reading and medita<g ref="char:EOLhyphen"/>tion of it. Chap. 1.3.</item>
+                     <item>4 In this booke is told of
+<list>
+                           <item>1 The evils that ſhould befall Gods Church under Antichriſt.</item>
+                           <pb n="68" facs="tcp:31607:39"/>
+                           <item> 2 The riſe and fall of Antichriſt, or Pope of Rome.</item>
+                           <item>3 A deſcription of the day of judge<g ref="char:EOLhyphen"/>ment, of the Reſurrection, and of the heavenly Jeruſalem, and of Gods peoples earneſt expectation and long<g ref="char:EOLhyphen"/>ing for the comming of Jeſus Chriſt in glory. To whom with the Father, and the Holy Ghoſt, be all Glory, Praiſe, and Thanks-giving for ever and ever. AMEN.</item>
+                        </list>
+                     </item>
+                  </list>
+               </div>
+            </div>
+         </div>
+         <div type="prayer">
+            <head>A Prayer for Young People Mornings and Evenings.</head>
+            <p n="1">1. <seg rend="decorInit">O</seg> Moſt Holy Lord God, Creator of Heaven and Earth, my mercifull Fa<g ref="char:EOLhyphen"/>ther in Jeſus Chriſt, Thou art light it ſelfe, &amp; I am by nature dark<g ref="char:EOLhyphen"/>neſſe it ſelfe, dead in ſinnes and treſpaſſes, Spiritually blind and poore, naked and mi<g ref="char:EOLhyphen"/>ſerable, not able of my ſelfe to have a good thought, much leſſe to doe one God-plea<g ref="char:EOLhyphen"/>ſing worke, worſe then the beaſts that pe<g ref="char:EOLhyphen"/>riſh. For I am guilty of the firſt ſinne of
+<pb n="69" facs="tcp:31607:39"/>our firſt parents in Paradiſe, I was concei<g ref="char:EOLhyphen"/>ved and borne in ſinne, and have lived in finne to this day, I have not kept one of thy holy lawes, I have not prized the Go<g ref="char:EOLhyphen"/>ſpell of Salvation, neither have thy mer<g ref="char:EOLhyphen"/>cies or viſitations kindly wrought upon mee, I have omitted holy duties, and I have committed many evills in thy fight O Lord God, &amp; ſo have deſerved a thouſand waies to be caſt out into utter darkneſſe, to have my portion in Hell with the damned for ever: Oh that I could bewaile my ſins, and mourne in ſecret bitterly for them as I ſhould: O Lord I abhorre my ſelfe in duſt and aſhes, miſerable wretch that I am, who ſhall deliver mee from the body of this death?</p>
+            <p n="2">2. O Lord God, thou haſt ſent thy deare Sonne Jeſus into the World to ſave ſinners, and thy holy Word doth aſſure me, that if I confeſſe and forſake my ſinnes, I ſhall have mercy, and that if I repent and believe in Chriſt, I ſhall not periſh. I pray thee, holy Lord God, give mee a broken and a contrite heart and ſpirit, give me re<g ref="char:EOLhyphen"/>pentance unto Life, and true Faith in our Lord Jeſus Chriſt that he may be all in all unto me: Oh let his pecious Bloud clenſe me from all my ſinnes, let him be my Hea<g ref="char:EOLhyphen"/>venly Prophet to teach me, my great high
+<pb n="70" facs="tcp:31607:40"/>Prieſt to redeem me, and to pray in Hea<g ref="char:EOLhyphen"/>ven for me, let him be my King to rule and guide me by his word &amp; holy Spirit, tha<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by him I may overcome the Divell th<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> world &amp; the Corruptions of my heart, and ſo perfect holineſſe in thy feare.</p>
+            <p n="3">3. Keep me O Lord, from all ſuch oc<g ref="char:EOLhyphen"/>caſions and company where I may be temp<g ref="char:EOLhyphen"/>ted to offend thee, help me to ſee how vain<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and uncertaine all things of the world are Oh give me a heart to love the Lord Jeſus in ſincerity, and to think nothing too much I can do or ſuffer for his ſake, ſtrenthen I pray thee my weake Faith in thee, my un<g ref="char:EOLhyphen"/>faigned Love to thee, &amp; make good to me all thoſe ſweet and precious Promiſes of the Covenant of Grace, to write thy Law in my heart and to remember my ſinnes and iniquityes no more. Fit me for trou<g ref="char:EOLhyphen"/>bles and tryalls, for ſickneſſe and death and for the coming of the Lord Jeſus in Glory that I may be found among the wiſe Virgins and be counted worthy in Chriſt to receive the Kingdome prepared for thine Elect before the foundation of the world was laid.</p>
+            <p n="4">4. Be Mercifull to Church and peo<g ref="char:EOLhyphen"/>ple in the whole world, Maintaine thy Goſpell againſt all oppoſition of Hell and Antichriſt acording to thy Promiſe. Have
+<pb n="71" facs="tcp:31607:40"/>mercy upon this Land of my Nativity, pre<g ref="char:EOLhyphen"/>ſerve truth and peace amongſt us and do good to all that are true of heart whether they be my Superiours, Equalls or Inferi<g ref="char:EOLhyphen"/>ours, and thoſe that are Enemies the Lord pitty them and forgive them. Be Gracious to the place and family where I live, O ſuffer not ſinne to raigne in this place, pitty all thoſe of our Neighbours or Kinsfolks, that are carnall and unconverted, Oh turne their hearts from ſinne to Grace, and from the power of darkneſſe to God, give me a heart to pray for them, and to watch and take all oportunities to win them by my good example and thoſe that are conver<g ref="char:EOLhyphen"/>ted keep them &amp; me O Lord by thy power through Faith unto Salvation to the end and in the end.</p>
+            <p n="5">5. Bleſſe the Miniſtry of thy Word, and all holy Ordinances to me and to all thine, let thy Word be my delight, and my Councellor in all things, what I know not, Lord teach thou mee, that I may be built up daily in ſaving knowledge and in grace.</p>
+            <p n="6">6. Now bleſſed be the Lord for all the many teſtimonies of his love to mee, for my health and ſtrength, daily preſervati<g ref="char:EOLhyphen"/>on, and manifold deliverances, but above all, for thy free grace, and everlaſting love in Jeſus Chriſt to mee and to all thine E<g ref="char:EOLhyphen"/>lect,
+<pb n="72" facs="tcp:31607:41"/>for bringing mee to the knowledge o<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſt, and for the many oportunities o<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Grace, O Lord enable me to make a bleſ<g ref="char:EOLhyphen"/>ſed uſe of all, that I may not give thee juſt cauſe to repent of all the good, thou doe<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for me daily.</p>
+            <p>Preſerve and keep me and this place this Day Night from all evill, command thy Holy Angells to pitch their Tents a<g ref="char:EOLhyphen"/>bout us, oh let me find grace in thy ſight, I pray thee, for thy favour is better then life it ſelfe. Heare me and anſwer mee, and do<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> more for mee, then I can aske or think of and all for Jeſus Chriſt's ſake, my deareſt Saviour and only Mediator. In whoſe ho<g ref="char:EOLhyphen"/>ly Name and Words I ſay; <hi>Our Father which art &amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
